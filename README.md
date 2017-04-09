@@ -34,7 +34,7 @@ Install the Czech language pack via composer is never easier.
 **Install Czech pack**:
 
 ```
-composer require mageplaza/magento-2-czech-language-pack:*
+composer require mageplaza/magento-2-czech-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy cs-cz
 
@@ -44,7 +44,7 @@ php bin/magento setup:static-content:deploy cs-cz
 **Update  Czech pack**:
 
 ```
-composer update mageplaza/magento-2-czech-language-pack:*
+composer update mageplaza/magento-2-czech-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy cs-cz
 
