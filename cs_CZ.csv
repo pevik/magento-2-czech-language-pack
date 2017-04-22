@@ -2726,6 +2726,7 @@ Payment,Platba,module,Magento_Checkout
 "Not yet calculated","Dosud nevypočteno",module,Magento_Checkout
 "We received your order!","Objednávku jsme přijali!",module,Magento_Checkout
 "Thank you for your purchase!","Děkujeme vám za objednávku!",module,Magento_Checkout
+"Go to Checkout","K pokladně",module,Magento_Checkout
 "Terms and Conditions","Obchodní podmínky",module,Magento_CheckoutAgreements
 "Add New Condition","Přidat novou podmínku",module,Magento_CheckoutAgreements
 "Save Condition","Uložit podmínky",module,Magento_CheckoutAgreements
