@@ -2727,6 +2727,9 @@ Payment,Platba,module,Magento_Checkout
 "We received your order!","Objednávku jsme přijali!",module,Magento_Checkout
 "Thank you for your purchase!","Děkujeme vám za objednávku!",module,Magento_Checkout
 "Go to Checkout","K pokladně",module,Magento_Checkout
+"View and edit cart","Zobrazit a upravit košík",module,Magento_Checkout
+"Item in Cart","Položka v košíku",module,Magento_Checkout
+"Items in Cart","Položky v košíku",module,Magento_Checkout
 "Terms and Conditions","Obchodní podmínky",module,Magento_CheckoutAgreements
 "Add New Condition","Přidat novou podmínku",module,Magento_CheckoutAgreements
 "Save Condition","Uložit podmínky",module,Magento_CheckoutAgreements
@@ -6310,6 +6313,7 @@ Partners,Partneři,module,Magento_Marketplace
 "Read More","Číst dále",module,Magento_Marketplace
 "Partner Page","Stránka partnera",module,Magento_Marketplace
 "No partners were found","Nebyly nalezeni žádní partneři.",module,Magento_Marketplace
+"Find Partners & Extensions","Najít partnery & rozšíření",module,Magento_Marketplace
 Synchronize,Synchronizovat,module,Magento_MediaStorage
 "Synchronizing %1 to %2","Synchronizuji %1 s %2",module,Magento_MediaStorage
 Synchronizing...,"Probíhá synchronizace...",module,Magento_MediaStorage
