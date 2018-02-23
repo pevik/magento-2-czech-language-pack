@@ -1,6 +1,6 @@
 ## Magento 2 Czech Language Pack
 
-From Magento 2 Translation Project, **Magento 2 Czech Language Pack** is guided by Mageplaza in order to bring the efficient way that helps you convert Magento 2 default language into Czech Language. All words and phrases from the storefront and backend will be translated according to the data translation at Crowdin. Here, you will teach how to download and install Czech language package on your magento 2 store. Continue reading this post to get full of the instructions.
+From Magento 2 Translation Project, **Magento 2 Czech Language Pack** is guided by Mageplaza in order to bring the efficient way that helps you convert Magento 2 default language into Czech Language. All words and phrases from the storefront and backend will be translated according to the data translation at Crowdin. Here, you will learn how to download and install Czech language package on your magento 2 store. Continue reading this post to get full of the instructions.
 
 Read more [Magento 2 Czech Language Pack](https://www.mageplaza.com/magento-2-czech-language-pack.html)
 
@@ -136,6 +136,7 @@ Contribute to this language at https://crowdin.com/project/magento-2/cs
 - Magento v2.0.13
 - Magento v2.0.14
 - Magento v2.0.15
+- Magento v2.0.16
 - Magento v2.1.0
 - Magento v2.1.1
 - Magento v2.1.2
@@ -145,6 +146,10 @@ Contribute to this language at https://crowdin.com/project/magento-2/cs
 - Magento v2.1.6
 - Magento v2.1.7
 - Magento v2.1.8
+- Magento v2.1.10
+- Magento v2.2.0
+- Magento v2.2.1
+- Magento v2.2.2
 
 
 
