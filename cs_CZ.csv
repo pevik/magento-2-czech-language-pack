@@ -238,40 +238,40 @@ Edit,Upravit,module,Magento_AdvancedSearch
 "RPC call failed, connection timed out after %time_out.","RPC volání selhalo, připojení vypršelo po %time_out.",module,Magento_Amqp
 "Message has been rejected: %1","Zpráva byla odmítnuta: %1",module,Magento_Amqp
 "Error while checking if topic is synchronous","Při kontrole, je-li téma je synchronní, nastala chyba",module,Magento_Amqp
-"Subscription status","Subscription status",module,Magento_Analytics
-"Sorry, there has been an error processing your request. Please try again later.","Sorry, there has been an error processing your request. Please try again later.",module,Magento_Analytics
-"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.",module,Magento_Analytics
-"Error occurred during postponement notification","Error occurred during postponement notification",module,Magento_Analytics
+"Subscription status","Stav předplatného",module,Magento_Analytics
+"Sorry, there has been an error processing your request. Please try again later.","Omlouváme se, došlo k chybě při zpracování vašeho požadavku. Opakujte akci později.",module,Magento_Analytics
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Omlouváme se došlo k chybě při zpracování požadavku registrace do služby Magento Analytics. Opakujte akci později.",module,Magento_Analytics
+"Error occurred during postponement notification","Došlo k chybě při odložení oznámení",module,Magento_Analytics
 "Time value has an unsupported format","Time value has an unsupported format",module,Magento_Analytics
-"Cron settings can't be saved","Cron settings can't be saved",module,Magento_Analytics
+"Cron settings can't be saved","Nelze uložit nastavení cron",module,Magento_Analytics
 "There was an error save new configuration value.","There was an error save new configuration value.",module,Magento_Analytics
 "Please select a vertical.","Please select a vertical.",module,Magento_Analytics
-"--Please Select--","--Please Select--",module,Magento_Analytics
-"Command was not found.","Command was not found.",module,Magento_Analytics
+"--Please Select--","– Vyberte –",module,Magento_Analytics
+"Command was not found.","Příkaz nebyl nalezen.",module,Magento_Analytics
 "Input data must be string or convertible into string.","Input data must be string or convertible into string.",module,Magento_Analytics
 "Input data must be non-empty string.","Input data must be non-empty string.",module,Magento_Analytics
-"Not valid cipher method.","Not valid cipher method.",module,Magento_Analytics
-"Encryption key can't be empty.","Encryption key can't be empty.",module,Magento_Analytics
-"Source ""%1"" is not exist","Source ""%1"" is not exist",module,Magento_Analytics
-"These arguments can't be empty ""%1""","These arguments can't be empty ""%1""",module,Magento_Analytics
+"Not valid cipher method.","Špatná šifrovací metoda.",module,Magento_Analytics
+"Encryption key can't be empty.","Šifrovací klíč nemůže být prázdný.",module,Magento_Analytics
+"Source ""%1"" is not exist","Zdroj ""%1"" neexistuje",module,Magento_Analytics
+"These arguments can't be empty ""%1""","Tyto argumenty nemohou být prázdné ""%1""",module,Magento_Analytics
 "Cannot find predefined integration user!","Cannot find predefined integration user!",module,Magento_Analytics
-"File is not ready yet.","File is not ready yet.",module,Magento_Analytics
+"File is not ready yet.","Soubor zatím není připraven.",module,Magento_Analytics
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.",module,Magento_Analytics
 "Failed to synchronize data to the Magento Business Intelligence service.","Failed to synchronize data to the Magento Business Intelligence service.",module,Magento_Analytics
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>",module,Magento_Analytics
-TestMessage,TestMessage,module,Magento_Analytics
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Opakovat Synchronizaci</a>",module,Magento_Analytics
+TestMessage,TestovacíZpráva,module,Magento_Analytics
 "Error message","Chybová zpráva",module,Magento_Analytics
-"Apps and Games","Apps and Games",module,Magento_Analytics
+"Apps and Games","Aplikace a Hry",module,Magento_Analytics
 "Athletic/Sporting Goods","Athletic/Sporting Goods",module,Magento_Analytics
-"Art and Design","Art and Design",module,Magento_Analytics
+"Art and Design","Umění a Design",module,Magento_Analytics
 "Advanced Reporting","Advanced Reporting",module,Magento_Analytics
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.",module,Magento_Analytics
-"View details","View details",module,Magento_Analytics
+"View details","Zobrazit podrobnosti",module,Magento_Analytics
 "Go to Advanced Reporting","Go to Advanced Reporting",module,Magento_Analytics
 "An error occurred while subscription process.","An error occurred while subscription process.",module,Magento_Analytics
-Analytics,Analytics,module,Magento_Analytics
+Analytics,Analytika,module,Magento_Analytics
 API,API,module,Magento_Analytics
-Configuration,Configuration,module,Magento_Analytics
+Configuration,Konfigurace,module,Magento_Analytics
 "Business Intelligence","Business Intelligence",module,Magento_Analytics
 "BI Essentials","BI Essentials",module,Magento_Analytics
 "This service provides a dynamic suite of reports with rich insights about your business.
@@ -282,7 +282,7 @@ Configuration,Configuration,module,Magento_Analytics
                 ""Go to Advanced Reporting"" link. </br> For more information, see our
                 <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.",module,Magento_Analytics
 "Advanced Reporting Service","Advanced Reporting Service",module,Magento_Analytics
-Industry,Industry,module,Magento_Analytics
+Industry,Průmysl,module,Magento_Analytics
 "Time of day to send data","Time of day to send data",module,Magento_Analytics
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Get more insights from Magento Business Intelligence</strong>",module,Magento_Analytics
 "Magento Business Intelligence provides you with a simple and clear path to
@@ -293,9 +293,9 @@ Industry,Industry,module,Magento_Analytics
 "Auto Parts","Auto Parts",module,Magento_Analytics
 "Baby/Children’s Apparel, Gear and Toys","Baby/Children’s Apparel, Gear and Toys",module,Magento_Analytics
 "Beauty and Cosmetics","Beauty and Cosmetics",module,Magento_Analytics
-"Books, Music and Magazines","Books, Music and Magazines",module,Magento_Analytics
+"Books, Music and Magazines","Knihy, Hudba a Časopisy",module,Magento_Analytics
 "Crafts and Stationery","Crafts and Stationery",module,Magento_Analytics
-"Consumer Electronics","Consumer Electronics",module,Magento_Analytics
+"Consumer Electronics","Spotřební Elektronika",module,Magento_Analytics
 "Deal Site","Deal Site",module,Magento_Analytics
 "Fashion Apparel and Accessories","Fashion Apparel and Accessories",module,Magento_Analytics
 "Food, Beverage and Grocery","Food, Beverage and Grocery",module,Magento_Analytics
@@ -307,12 +307,12 @@ Industry,Industry,module,Magento_Analytics
 "Outdoor and Camping Gear","Outdoor and Camping Gear",module,Magento_Analytics
 "Pet Goods","Pet Goods",module,Magento_Analytics
 "Pharma and Medical Devices","Pharma and Medical Devices",module,Magento_Analytics
-"Technology B2B","Technology B2B",module,Magento_Analytics
+"Technology B2B","Technologie B2B",module,Magento_Analytics
 "Analytics Subscription","Analytics Subscription",module,Magento_Analytics
 "powered by Magento Business Intelligence","powered by Magento Business Intelligence",module,Magento_Analytics
-"Are you sure you want to opt out?","Are you sure you want to opt out?",module,Magento_Analytics
-Cancel,Cancel,module,Magento_Analytics
-"Opt out","Opt out",module,Magento_Analytics
+"Are you sure you want to opt out?","Jste si jisti, že se chcete odhlásit?",module,Magento_Analytics
+Cancel,Zrušit,module,Magento_Analytics
+"Opt out","Odhlásit se",module,Magento_Analytics
 "<p>Advanced Reporting in included,
                     free of charge, in your Magento software. When you opt out, we collect no product, order, and
                     customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
@@ -324,9 +324,9 @@ Cancel,Cancel,module,Magento_Analytics
 Back,Zpět,module,Magento_AsynchronousOperations
 Done,Hotovo,module,Magento_AsynchronousOperations
 Retry,Opakovat,module,Magento_AsynchronousOperations
-"'Action Details - #' .","'Action Details - #' .",module,Magento_AsynchronousOperations
+"'Action Details - #' .","'Detaily akce - #' .",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.""","%1 item(s) have been scheduled for update.""",module,Magento_AsynchronousOperations
-"Bulk Actions Log","Bulk Actions Log",module,Magento_AsynchronousOperations
+"Bulk Actions Log","Protokol hromadných akcí",module,Magento_AsynchronousOperations
 "%1 item(s) are currently being updated.","%1 item(s) are currently being updated.",module,Magento_AsynchronousOperations
 "Task ""%1"":","Task ""%1"":",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.","%1 item(s) have been scheduled for update.",module,Magento_AsynchronousOperations
@@ -644,12 +644,12 @@ YTD,"Od počátku roku",module,Magento_Backend
 Order,Objednávka,module,Magento_Backend
 "Order #%1","Objednávka č.%1",module,Magento_Backend
 "You need more permissions to access this.","K této činnosti potřebujete vyšší oprávnění.",module,Magento_Backend
-"Sorry, you need permissions to view this content.","Sorry, you need permissions to view this content.",module,Magento_Backend
-"Next steps","Next steps",module,Magento_Backend
-"If you think this is an error, try signing out and signing in again.","If you think this is an error, try signing out and signing in again.",module,Magento_Backend
-"Contact a system administrator or store owner to gain permissions.","Contact a system administrator or store owner to gain permissions.",module,Magento_Backend
-"Return to","Return to",module,Magento_Backend
-"previous page","previous page",module,Magento_Backend
+"Sorry, you need permissions to view this content.","Pro zobrazení obsahu potřebujete vyšší oprávnění.",module,Magento_Backend
+"Next steps","Další kroky",module,Magento_Backend
+"If you think this is an error, try signing out and signing in again.","Pokud se domníváte, že jde o chybu, zkuste se odhlásit a znovu přihlásit.",module,Magento_Backend
+"Contact a system administrator or store owner to gain permissions.","Pro získání oprávnění se obraťte na správce systému nebo vlastníka.",module,Magento_Backend
+"Return to","Návrat do",module,Magento_Backend
+"previous page","předchozí stránka",module,Magento_Backend
 "Welcome, please sign in","Vítejte, přihlaste se prosím",module,Magento_Backend
 Username,"Uživatelské jméno",module,Magento_Backend
 "user name","uživatelské jméno",module,Magento_Backend
@@ -767,7 +767,7 @@ Debug,"Ladící režim",module,Magento_Backend
 "Minification is not applied in developer mode.","Komprimaci nelze použít v režimu vývojáře.",module,Magento_Backend
 "Translate Inline","Přímý překlad",module,Magento_Backend
 "Enabled for Storefront","Zapnuto v obchodu",module,Magento_Backend
-"Enabled for Admin","Povoleno v adminu",module,Magento_Backend
+"Enabled for Admin","Zapnuto ve správě",module,Magento_Backend
 "Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Pro přímý překlad obchodu i správy by měly být vypnuty mezipaměti překladů, bloků a ostatních výstupů.",module,Magento_Backend
 "JavaScript Settings","Nastavení JavaScriptu",module,Magento_Backend
 "Merge JavaScript Files","Sloučit JS soubory",module,Magento_Backend
@@ -1031,12 +1031,12 @@ Header,Záhlaví,module,Magento_Banner
 "Restrict by Banner Types","Omezit podle typů banerů",module,Magento_Banner
 "Rotation Mode","Režim rotace",module,Magento_Banner
 "Display all instead of rotating","Zobrazit všechny místo rotací",module,Magento_Banner
-"One at the time, Random","One at the time, Random",module,Magento_Banner
-"One at the time, Series","One at the time, Series",module,Magento_Banner
-"One at the time, Shuffle","One at the time, Shuffle",module,Magento_Banner
+"One at the time, Random","Jednou za čas, náhodně",module,Magento_Banner
+"One at the time, Series","Jednou za čas, po sobě",module,Magento_Banner
+"One at the time, Shuffle","Jednou za čas, promíchat",module,Magento_Banner
 "Specify Banners","Vyberte bannery",module,Magento_Banner
-"Banner Block Template","Banner Block Template",module,Magento_Banner
-"Banner Inline Template","Banner Inline Template",module,Magento_Banner
+"Banner Block Template","Šablona blokového baneru",module,Magento_Banner
+"Banner Inline Template","Šablona inline baneru",module,Magento_Banner
 cc_type,cc_type,module,Magento_Braintree
 cc_number,cc_number,module,Magento_Braintree
 avsPostalCodeResponseCode,avsPostalCodeResponseCode,module,Magento_Braintree
@@ -1052,19 +1052,19 @@ riskDataId,riskDataId,module,Magento_Braintree
 riskDataDecision,riskDataDecision,module,Magento_Braintree
 paymentId,paymentId,module,Magento_Braintree
 payerEmail,payerEmail,module,Magento_Braintree
-sale,sale,module,Magento_Braintree
-credit,credit,module,Magento_Braintree
+sale,prodej,module,Magento_Braintree
+credit,úvěr,module,Magento_Braintree
 authorization_expired,authorization_expired,module,Magento_Braintree
-authorizing,authorizing,module,Magento_Braintree
-authorized,authorized,module,Magento_Braintree
+authorizing,autorizuji,module,Magento_Braintree
+authorized,autorizováno,module,Magento_Braintree
 gateway_rejected,gateway_rejected,module,Magento_Braintree
-failed,failed,module,Magento_Braintree
+failed,chyba,module,Magento_Braintree
 processor_declined,processor_declined,module,Magento_Braintree
-settled,settled,module,Magento_Braintree
-settling,settling,module,Magento_Braintree
+settled,vypořádáno,module,Magento_Braintree
+settling,účtování,module,Magento_Braintree
 submitted_for_settlement,submitted_for_settlement,module,Magento_Braintree
-voided,voided,module,Magento_Braintree
-unrecognized,unrecognized,module,Magento_Braintree
+voided,anulováno,module,Magento_Braintree
+unrecognized,nerozpoznáno,module,Magento_Braintree
 settlement_declined,settlement_declined,module,Magento_Braintree
 settlement_pending,settlement_pending,module,Magento_Braintree
 settlement_confirmed,settlement_confirmed,module,Magento_Braintree
@@ -4638,7 +4638,7 @@ Continue,Pokračovat,module,Magento_Directory
 Fixer.io,Fixer.io,module,Magento_Directory
 Webservicex,Webservicex,module,Magento_Directory
 "Scheduled Import Settings","Nastavení rozvrhu importu",module,Magento_Directory
-Enabled,Povoleno,module,Magento_Directory
+Enabled,Zapnuto,module,Magento_Directory
 "Error Email Recipient","Příjemce chybového e-mailu",module,Magento_Directory
 "Error Email Sender","Odesílatel chybového e-mailu",module,Magento_Directory
 "Error Email Template","Šablona chybového e-mailu",module,Magento_Directory
@@ -8343,6 +8343,7 @@ Action,Akce,module,Magento_Reports
 Report,Report,module,Magento_Reports
 Description,Popis,module,Magento_Reports
 undefined,nedefinováno,module,Magento_Reports
+"Item in Cart","Item in Cart",module,Magento_Reports
 "Save Review","Uložit recenzi",module,Magento_Review
 "New Review","Nová recenze",module,Magento_Review
 "Review Details","Nastavení recenze",module,Magento_Review
@@ -10635,11 +10636,11 @@ CANCELED,CANCELED,module,Magento_Signifyd
 IN_REVIEW,IN_REVIEW,module,Magento_Signifyd
 Approved,Approved,module,Magento_Signifyd
 Declined,Declined,module,Magento_Signifyd
-Pending,Pending,module,Magento_Signifyd
-Canceled,Canceled,module,Magento_Signifyd
-"In Review","In Review",module,Magento_Signifyd
-Unrequested,Unrequested,module,Magento_Signifyd
-"Learn more","Learn more",module,Magento_Signifyd
+Pending,Nevyřízená,module,Magento_Signifyd
+Canceled,Zrušená,module,Magento_Signifyd
+"In Review","V recenzi",module,Magento_Signifyd
+Unrequested,Nevyžádaná,module,Magento_Signifyd
+"Learn more","Zjistit více",module,Magento_Signifyd
 "This order already has associated case entity","This order already has associated case entity",module,Magento_Signifyd
 "The case entity should not be empty.","The case entity should not be empty.",module,Magento_Signifyd
 "Cannot update Case entity.","Cannot update Case entity.",module,Magento_Signifyd
@@ -12815,7 +12816,7 @@ here,zde,module,Magento_Worldpay
 "You will be redirected to the Worldpay website.","You will be redirected to the Worldpay website.",module,Magento_Worldpay
 "Continue to Worldpay","Continue to Worldpay",module,Magento_Worldpay
 Worldpay,Worldpay,module,Magento_Worldpay
-Enabled,Povoleno,module,Magento_Worldpay
+Enabled,Zapnuto,module,Magento_Worldpay
 Title,Název,module,Magento_Worldpay
 "Payment Response Password","Payment Response Password",module,Magento_Worldpay
 "Remote Admin Installation ID","Remote Admin Installation ID",module,Magento_Worldpay
