@@ -5,15 +5,15 @@
 "You need more permissions to apply some of the rule updates.","K uložení úprav funkce potřebujete vyšší oprávnění.",module,Magento_AdminGws
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Tuto entitu je potřeba přiřadit k store view. Ověřte přiřazení a zkuste to znovu.",module,Magento_AdminGws
 "Orders can only be completed in an active store. Verify the store and try again.","Objednávky mohou být dokončeny pouze v aktivních obchodech. Ověřte stav obchodu a zkuste to znovu.",module,Magento_AdminGws
-"This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","Tato položka musí být přiřazena k pohledu obchodu. Přiřaďte položku a zopakujte akci.",module,Magento_AdminGws
 "More permissions are needed to save this item.","K uložení této položky je potřeba více oprávnění.",module,Magento_AdminGws
 "More permissions are needed to delete this item.","Ke smazání této položky je potřeba více oprávnění.",module,Magento_AdminGws
 "More permissions are needed to view this item.","K zobrazení této položky je potřeba více oprávnění.",module,Magento_AdminGws
-"At least one website or store group needs to be selected. Select and try again.","At least one website or store group needs to be selected. Select and try again.",module,Magento_AdminGws
-"More permissions are needed to set All Scopes to a Role.","More permissions are needed to set All Scopes to a Role.",module,Magento_AdminGws
-"The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
+"At least one website or store group needs to be selected. Select and try again.","Nejméně jedna website nebo skupina obchodů můsí být vybrano. Vyberte a zkuste znova.",module,Magento_AdminGws
+"More permissions are needed to set All Scopes to a Role.","Další oprávnění jsou potřebné k nastavení Všechny rozsahy u role.",module,Magento_AdminGws
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","ID webové stránky ""%1"" je nesprávné. Zkontrolujte ID webu a opakujte akci.",module,Magento_AdminGws
 "You need more permissions to access website ""%1"".","K přístupu k webu ""%1"" potřebujete vyšší oprávnění.",module,Magento_AdminGws
-"The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again.",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","ID obchodu ""%1"" je nesprávné. Zkontrolujte ID obchodu a opakujte akci.",module,Magento_AdminGws
 "More permissions are needed to save this setting.","K uložení je potřeba více oprávnění.",module,Magento_AdminGws
 "Role Scopes","Rozsahy role",module,Magento_AdminGws
 "Custom","Vlastní",module,Magento_AdminGws
@@ -34,7 +34,7 @@
 "Total of %1 record(s) have been removed.","Bylo odstraněno celkem %1 zpráv(y).",module,Magento_AdminNotification
 "We couldn't remove the messages because of an error.","Z důvodu chyby nelze zprávy odstranit.",module,Magento_AdminNotification
 "The message has been removed.","Zpráva byla odstraněna.",module,Magento_AdminNotification
-"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.",module,Magento_AdminNotification
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Všechny nedávné systémové upozornění máte vyřešené. Znovunačtením stránky odstraníte alert.",module,Magento_AdminNotification
 "1 Hour","1 hodina",module,Magento_AdminNotification
 "2 Hours","2 hodiny",module,Magento_AdminNotification
 "6 Hours","6 hodin",module,Magento_AdminNotification
@@ -104,19 +104,19 @@
 "You must buy at least %1 of these per purchase.","Musíte si zakoupit alespoň %1 na jeden nákup.",module,Magento_AdvancedCheckout
 "Specify the product's options.","Zvolte parametry produktu.",module,Magento_AdvancedCheckout
 "Alert me when this item is available.","Upozornit mě na naskladnění produktu.",module,Magento_AdvancedCheckout
-"This customer couldn't be found. Verify the customer and try again.","This customer couldn't be found. Verify the customer and try again.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.","Tento zákazník nebyl nalezen. Zkontrolujte zákazníka a zopakujte akci.",module,Magento_AdvancedCheckout
 "Shopping cart management is disabled for this customer.","Správa nákupního košíku je pro tohoto zákazníka vypnuta.",module,Magento_AdvancedCheckout
-"This store couldn't be found. Verify the store and try again.","This store couldn't be found. Verify the store and try again.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","Tento obchod nebyl nalezen. Zkontrolujte obchod a zopakujte akci.",module,Magento_AdvancedCheckout
 "Customers","Zákazníci",module,Magento_AdvancedCheckout
 "Shopping Cart","Nákupní košík",module,Magento_AdvancedCheckout
 "An error occurred. For details, see the error log.","Došlo k chybě. Další informace naleznete v protokolu chyb.",module,Magento_AdvancedCheckout
 "You do not have access to this.","Nemáte dostatečná oprávnění.",module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
-"The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The wish list item needs to be loaded. Load the item and try again.","The wish list item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Objednávky mohou být dokončeny pouze v aktivních obchodech. Ověřte stav obchodu a zkuste to znovu.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","Objednaná položka musí být načtená. Načíst položku a zopakovat akci.",module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.","ID položky nabídky musí být přijata. Nastavte ID a opakujte akci.",module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.","Objednaná položka musí být načtená. Načíst položku a zopakovat akci.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","ID položky seznamu přání musí být přijato. Nastavte ID a opakujte akci.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","Položka seznamu přání musí být načtena. Načíst položku a zopakovat akci.",module,Magento_AdvancedCheckout
 "An error has occurred. See error log for details.","Došlo k chybě. Více podrobností v protokolu chyb.",module,Magento_AdvancedCheckout
 "You cannot configure a product.","Produkt nelze konfigurovat.",module,Magento_AdvancedCheckout
 "You removed the items.","Položky byly odebrány.",module,Magento_AdvancedCheckout
@@ -147,7 +147,7 @@
 "Yes, for Specified Customer Groups","Ano, pro zvolené skupiny zákazníků",module,Magento_AdvancedCheckout
 "Yes, for Everyone","Ano, pro každého",module,Magento_AdvancedCheckout
 "No","Ne",module,Magento_AdvancedCheckout
-"The file is corrupt and can't be used.","The file is corrupt and can't be used.",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","Soubor je poškozen a nelze použít.",module,Magento_AdvancedCheckout
 "Please upload the file in .csv format.","Nahrajte soubor ve formátu CSV prosím.",module,Magento_AdvancedCheckout
 "%1 item(s) need your attention.","%1 položek vyžaduje vaši pozornost.",module,Magento_AdvancedCheckout
 "Apply Coupon Code","Použít kód kuponu",module,Magento_AdvancedCheckout
@@ -1664,7 +1664,7 @@
 "Category is not available for requested store.","Pro požadovaný obchod není kategorie dostupná.",module,Magento_Catalog
 "There was a category move error.","Při přesunu kategorie nastala chyba.",module,Magento_Catalog
 "You moved the category.","Kategorie byla přesunuta.",module,Magento_Catalog
-"The ""%1"" attribute is required. Enter and try again.","The ""%1"" attribute is required. Enter and try again.",module,Magento_Catalog
+"The ""%1"" attribute is required. Enter and try again.","Atribut ""%1"" je povinný. Zadejte jej a akci zopakujte.",module,Magento_Catalog
 "You saved the category.","Kategorie byla uložena.",module,Magento_Catalog
 "Something went wrong while saving the category.","Při ukládání kategorie nastala chyba.",module,Magento_Catalog
 "Please select products for attributes update.","Zvolte produkty ke změně atributů prosím.",module,Magento_Catalog
@@ -1672,7 +1672,7 @@
 "A total of %1 record(s) were updated.","Bylo upraveno celkem %1 záznam(ů).",module,Magento_Catalog
 "Something went wrong while updating the product(s) attributes.","Při ukládání atributů produktu(ů) nastala chyba.",module,Magento_Catalog
 "Unable to add attribute","Nelze přidat atribut",module,Magento_Catalog
-"Attributes were missing and must be specified.","Attributes were missing and must be specified.",module,Magento_Catalog
+"Attributes were missing and must be specified.","Atributy chyběly a musí být nastaveny.",module,Magento_Catalog
 "Catalog","Katalog",module,Magento_Catalog
 "Manage Product Attributes","Správa atributů produktu",module,Magento_Catalog
 "We can't delete the attribute.","Atribut nelze odstranit.",module,Magento_Catalog
@@ -1688,7 +1688,7 @@
 "You saved the product attribute.","Atribut nelze uložit.",module,Magento_Catalog
 "An attribute with this code already exists.","Atribut s tímto kódem již existuje.",module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","Atribut se stejným kódem (%1) již existuje.",module,Magento_Catalog
-"A ""%1"" attribute set name already exists. Create a new name and try again.","A ""%1"" attribute set name already exists. Create a new name and try again.",module,Magento_Catalog
+"A ""%1"" attribute set name already exists. Create a new name and try again.","Název skupiny atributů ""%1"" již existuje. Vyberte jiné jméno a zkuste znova.",module,Magento_Catalog
 "The value of Admin must be unique. (%1)","The value of Admin must be unique. (%1)",module,Magento_Catalog
 "The value of Admin scope can't be empty.","Hodnota rozsahu Admin nemůže být prázdná.",module,Magento_Catalog
 "You duplicated the product.","Produkt byl duplikován.",module,Magento_Catalog
@@ -1700,7 +1700,7 @@
 "A total of %1 record(s) have been deleted.","Bylo odstraněno celkem %1 záznam(ů).",module,Magento_Catalog
 "A total of %1 record(s) have been updated.","Bylo upraveno celkem %1 záznam(ů).",module,Magento_Catalog
 "Something went wrong while updating the product(s) status.","Při ukládání stavu produktu nastala chyba.",module,Magento_Catalog
-"The product was unable to be saved. Please try again.","The product was unable to be saved. Please try again.",module,Magento_Catalog
+"The product was unable to be saved. Please try again.","Produkt se nepodařilo uložit. Opakujte akci.",module,Magento_Catalog
 "You saved the product.","Produkt byl uložen.",module,Magento_Catalog
 "SKU for product %1 has been changed to %2.","Kód produktu %1 byl změněn na %2.",module,Magento_Catalog
 "The image cannot be removed as it has been assigned to the other image role","Obrázek nelze odstranit, protože byl přiřazen k funkci jiného obrázku",module,Magento_Catalog
@@ -1742,7 +1742,7 @@
 "Please select a static block.","Vyberte statický blok.",module,Magento_Catalog
 "frontend_label","oznaceni_obchodu",module,Magento_Catalog
 "Could not save product ""%1"" with position %2 to category %3","Produkt ""%1"" s pozicí %2 nelze do kategorie %3 uložit",module,Magento_Catalog
-"The category doesn't contain the specified product.","The category doesn't contain the specified product.",module,Magento_Catalog
+"The category doesn't contain the specified product.","Kategorie neobsahuje zvolený produkt.",module,Magento_Catalog
 "Could not save product ""%product"" with position %position to category %category","Produkt ""%product"" s pozicí %position nelze do kategorie %category uložit",module,Magento_Catalog
 "Operation do not allow to move a parent category to any of children category","Nelze přesunout nadřazenou kategorii do jedné z podřízených kategorií",module,Magento_Catalog
 "Could not move category","Kategorii nelze přesunout",module,Magento_Catalog
@@ -1773,7 +1773,7 @@
 "Center","Na střed",module,Magento_Catalog
 "%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 nerozšiřuje \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
 "Something went wrong while saving the file(s).","Při ukládání souboru nastala chyba.",module,Magento_Catalog
-"File validation failed.","File validation failed.",module,Magento_Catalog
+"File validation failed.","Ověření souboru neprošlo.",module,Magento_Catalog
 "File can not be saved to the destination folder.","Soubor nelze do cílového adresáře uložit.",module,Magento_Catalog
 "Unknown EAV indexer type ""%1"".","Neznámý typ EAV indexeru ""%1"".",module,Magento_Catalog
 "We can't rebuild the index for an undefined product.","Pro nedefinované produkty nelze index obnovit.",module,Magento_Catalog
@@ -1791,20 +1791,20 @@
 "The filter must be an object. Please set the correct filter.","Filtr musí být objekt. Nastavte správný filtr.",module,Magento_Catalog
 "Clear Price","Smazat cenu",module,Magento_Catalog
 "%1 and above","%1 a více",module,Magento_Catalog
-"The filters are invalid. Set them in an array and try again.","The filters are invalid. Set them in an array and try again.",module,Magento_Catalog
-"The product wasn't registered.","The product wasn't registered.",module,Magento_Catalog
-"The store wasn't registered. Verify the store and try again.","The store wasn't registered. Verify the store and try again.",module,Magento_Catalog
+"The filters are invalid. Set them in an array and try again.","Nevalidní filtry. Nastavte je jako pole a vyzkoušejte znova.",module,Magento_Catalog
+"The product wasn't registered.","Produkt nebyl registrován.",module,Magento_Catalog
+"The store wasn't registered. Verify the store and try again.","Obchod není zaregistrován. Ověřte toto a zkuste znovu.",module,Magento_Catalog
 "Group price must be a number greater than 0.","Skupinová cena musí být větší než 0.",module,Magento_Catalog
 "Media Gallery converter should be an instance of EntryConverterInterface.","Převodník galerie médií by měl být instancí EntryConverterInterface.",module,Magento_Catalog
 "There is no MediaGalleryEntryConverter for given type","Pro daný typ neexistuje žádný MediaGalleryEntryConverter",module,Magento_Catalog
 "Please enter a number 0 or greater in this field.","Do tohoto údaje zadejte číslo 0 nebo větší.",module,Magento_Catalog
-"The ""%1"" attribute value is empty. Set the attribute and try again.","The ""%1"" attribute value is empty. Set the attribute and try again.",module,Magento_Catalog
+"The ""%1"" attribute value is empty. Set the attribute and try again.","Hodnota atributu ""%1"" je prázdná. Nastavte atribut a zkuste znova.",module,Magento_Catalog
 "SKU length should be %1 characters maximum.","Délka SKU může být maximálně %1 znaků.",module,Magento_Catalog
 "Please enter a valid number in this field.","Do tohoto údaje zadejte prosím platné číslo.",module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity.","Byla nalezena množstevní cena skupiny zákazníků, webu a množství.",module,Magento_Catalog
 "Percentage value must be a number between 0 and 100.","Procentuální hodnota musí být číslo mezi 0 a 100.",module,Magento_Catalog
 "Invalid option id %1","Neplatná volba ID %1",module,Magento_Catalog
-"The attribute set couldn't be created because it's based on a non-product attribute set.","The attribute set couldn't be created because it's based on a non-product attribute set.",module,Magento_Catalog
+"The attribute set couldn't be created because it's based on a non-product attribute set.","Sada atributů nelze vytvořit, protože je založena na neexistující sadě produktových atributů.",module,Magento_Catalog
 "The attribute set couldn't be created because it's based on a non-existing attribute set.","The attribute set couldn't be created because it's based on a non-existing attribute set.",module,Magento_Catalog
 "Provided Attribute set non product Attribute set.","Poskytnutá sada atributů není produktová sada atributů.",module,Magento_Catalog
 "Use config","Použít nastavení",module,Magento_Catalog
@@ -1813,19 +1813,19 @@
 "Attribute Set already exists.","Sada atributů již existuje.",module,Magento_Catalog
 "We couldn't copy file %1. Please delete media with non-existing images and try again.","Nelze zkopírovat soubor %1. Prosím, odstraňte média s neexistujícími obrázky a opakujte akci.",module,Magento_Catalog
 "The image content is invalid. Verify the content and try again.","The image content is invalid. Verify the content and try again.",module,Magento_Catalog
-"The product can't be saved.","The product can't be saved.",module,Magento_Catalog
-"The new media gallery entry failed to save.","The new media gallery entry failed to save.",module,Magento_Catalog
+"The product can't be saved.","Produkt nelze uložit.",module,Magento_Catalog
+"The new media gallery entry failed to save.","Novou položku galerie nelze uložit.",module,Magento_Catalog
 "No image with the provided ID was found. Verify the ID and try again.","No image with the provided ID was found. Verify the ID and try again.",module,Magento_Catalog
-"The product doesn't exist. Verify and try again.","The product doesn't exist. Verify and try again.",module,Magento_Catalog
-"The image doesn't exist. Verify and try again.","The image doesn't exist. Verify and try again.",module,Magento_Catalog
-"The image doesn't exist.","The image doesn't exist.",module,Magento_Catalog
+"The product doesn't exist. Verify and try again.","Produkt neexistuje. Zkontrolujte a zkuste to znovu.",module,Magento_Catalog
+"The image doesn't exist. Verify and try again.","Obrázek neexistuje. Zkontrolujte a zkuste to znovu.",module,Magento_Catalog
+"The image doesn't exist.","Obrázek neexistuje.",module,Magento_Catalog
 "The image type for the file is invalid. Enter the correct image type and try again.","The image type for the file is invalid. Enter the correct image type and try again.",module,Magento_Catalog
-"The ""%1"" file couldn't be moved.","The ""%1"" file couldn't be moved.",module,Magento_Catalog
-"Can't get information about the picture: %1","Can't get information about the picture: %1",module,Magento_Catalog
+"The ""%1"" file couldn't be moved.","Soubro ""%1"" nelze přesunout.",module,Magento_Catalog
+"Can't get information about the picture: %1","Nelze získat informace o obrázku: %1",module,Magento_Catalog
 "The option type to get group instance is incorrect.","Neplatný typ volby k získání instance skupiny.",module,Magento_Catalog
 "Select type options required values rows.","Zvolte typy voleb požadovaných hodnot řádků.",module,Magento_Catalog
 "The ProductSku is empty. Set the ProductSku and try again.","The ProductSku is empty. Set the ProductSku and try again.",module,Magento_Catalog
-"The custom option couldn't be removed.","The custom option couldn't be removed.",module,Magento_Catalog
+"The custom option couldn't be removed.","Vlastní možnost nelze odstranit.",module,Magento_Catalog
 "Please specify date required option(s).","Zadejte požadované datum(y) prosím.",module,Magento_Catalog
 "Please specify time required option(s).","Zadejte požadovaný čas(y) prosím.",module,Magento_Catalog
 "The product's required option(s) weren't entered. Make sure the options are entered and try again.","The product's required option(s) weren't entered. Make sure the options are entered and try again.",module,Magento_Catalog
@@ -1845,11 +1845,11 @@
 "The file '%1' is invalid. Please choose another one","Soubor '%1' je neplatný. Zkuste jiný",module,Magento_Catalog
 "File '%1' is not an image.","Soubor '%1' není obrázek.",module,Magento_Catalog
 "The validation failed. Make sure the required options are entered and the file is uploaded, then try again.","The validation failed. Make sure the required options are entered and the file is uploaded, then try again.",module,Magento_Catalog
-"The file was too big and couldn't be uploaded. Use a file smaller than %1 MBs and try to upload again.","The file was too big and couldn't be uploaded. Use a file smaller than %1 MBs and try to upload again.",module,Magento_Catalog
-"The required option wasn't entered. Enter the option and try again.","The required option wasn't entered. Enter the option and try again.",module,Magento_Catalog
-"The file is empty. Select another file and try again.","The file is empty. Select another file and try again.",module,Magento_Catalog
+"The file was too big and couldn't be uploaded. Use a file smaller than %1 MBs and try to upload again.","Soubor je příliš veliký a nelze jej nahrát na server. Použijte soubor menší než %1 MBs a zkuste jej nahrát znova.",module,Magento_Catalog
+"The required option wasn't entered. Enter the option and try again.","Nezadali jste povinnou možnost. Zadejte ji a zkuste znova.",module,Magento_Catalog
+"The file is empty. Select another file and try again.","Soubor je prázdný. Vyberte jiný soubor a zkuste znova.",module,Magento_Catalog
 "Some of the selected item options are not currently available.","Některé ze zvolených položek volby jsou nejsou dostupné.",module,Magento_Catalog
-"The text is too long. Shorten the text and try again.","The text is too long. Shorten the text and try again.",module,Magento_Catalog
+"The text is too long. Shorten the text and try again.","Text je příliš dlouhý. Zkraťte text a zkuste znovu.",module,Magento_Catalog
 "Invalid attribute %fieldName = %fieldValue.","Neplatný atribut %fieldName = %fieldValue.",module,Magento_Catalog
 "Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.","Nebylo nalezeno požadované úložiště. ID řádku: SKU = %SKU, ID obchodu: %storeId.",module,Magento_Catalog
 "Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.","Neplatný atribut náklady = %cost. ID řádku: SKU = %SKU, ID obchodu: %storeId.",module,Magento_Catalog
@@ -1869,15 +1869,15 @@
 "Invalid attribute Website ID = %websiteId. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Neplatný atribut ID webové stránky = % websiteId. ID řádku: SKU = %SKU, webové stránky ID: % websiteId, skupina zákazníků: %customerGroup, množství: %qty.",module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Našli jsme duplicitní stránky, úroveň ceny, skupina zákazníků a množství: skupina zákazníků = %customerGroup, webové stránky ID = % websiteId, množství = %qty. ID řádku: SKU = %SKU, webové stránky ID: % websiteId, skupina zákazníků: %customerGroup, množství: %qty.",module,Magento_Catalog
 "No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
-"Tier price is unavailable for this product.","Tier price is unavailable for this product.",module,Magento_Catalog
+"Tier price is unavailable for this product.","Úroveň cen není k dispozici pro tento produkt.",module,Magento_Catalog
 "Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Produkt nemá skupinovou cenu s údaji: customerGroupId = '%1', web = %2, qty = %3",module,Magento_Catalog
-"The tier_price data is invalid. Verify the data and try again.","The tier_price data is invalid. Verify the data and try again.",module,Magento_Catalog
-"The group price couldn't be saved.","The group price couldn't be saved.",module,Magento_Catalog
+"The tier_price data is invalid. Verify the data and try again.","Tier_price data jsou neplatná. Zkontrolujte údaje a akci opakujte.",module,Magento_Catalog
+"The group price couldn't be saved.","Skupinovou cenu nelze uložit.",module,Magento_Catalog
 "The data was invalid. Verify the data and try again.","The data was invalid. Verify the data and try again.",module,Magento_Catalog
 "Values in the %1 attributes are invalid. Verify the values and try again.","Values in the %1 attributes are invalid. Verify the values and try again.",module,Magento_Catalog
-"We can't create the ""%1"" writeable directory.","We can't create the ""%1"" writeable directory.",module,Magento_Catalog
-"The file upload failed. Try to upload again.","The file upload failed. Try to upload again.",module,Magento_Catalog
-"The product has required options. Enter the options and try again.","The product has required options. Enter the options and try again.",module,Magento_Catalog
+"We can't create the ""%1"" writeable directory.","Nelze vytvořit zapisovatelný adresář ""%1"".",module,Magento_Catalog
+"The file upload failed. Try to upload again.","Odesílání souboru se nezdařilo. Zkuste odeslat znovu.",module,Magento_Catalog
+"The product has required options. Enter the options and try again.","Produkt má povinné možnosti. Zvolte a zkuste znovu.",module,Magento_Catalog
 "Something went wrong while processing the request.","Při zpracování požadavku nastala chyba.",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 nerozšiřuje \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 nerozšiřuje \Magento\Catalog\Model\Product\Type\Price",module,Magento_Catalog
@@ -1886,21 +1886,21 @@
 "Catalog, Search","Katalog i hledání",module,Magento_Catalog
 "Something went wrong while removing products from the websites.","Při odebrání produktů z webů nastala chyba.",module,Magento_Catalog
 "Something went wrong while adding products to websites.","Při přidávání produktů na weby nastala chyba.",module,Magento_Catalog
-"The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","The group with the ""%1"" ID doesn't exist. Verify the ID and try again.",module,Magento_Catalog
-"The attribute group can't be deleted because it contains system attributes.","The attribute group can't be deleted because it contains system attributes.",module,Magento_Catalog
-"The collection provider isn't registered.","The collection provider isn't registered.",module,Magento_Catalog
+"The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","Skupina s ""%1"" neexistuje. Ověřte ID a zkuste znova.",module,Magento_Catalog
+"The attribute group can't be deleted because it contains system attributes.","Skupina atributů nelze odstranit, protože obsahuje systémové atributy.",module,Magento_Catalog
+"The collection provider isn't registered.","Poskytovatel kolekce není registrován.",module,Magento_Catalog
 "The ""%1"" link type is unknown. Verify the type and try again.","The ""%1"" link type is unknown. Verify the type and try again.",module,Magento_Catalog
 "The ""%1"" link type wasn't found. Verify the type and try again.","The ""%1"" link type wasn't found. Verify the type and try again.",module,Magento_Catalog
 "The linked products data is invalid. Verify the data and try again.","The linked products data is invalid. Verify the data and try again.",module,Magento_Catalog
-"Product with SKU '%1' is not linked to product with SKU '%2'","Product with SKU '%1' is not linked to product with SKU '%2'",module,Magento_Catalog
+"Product with SKU '%1' is not linked to product with SKU '%2'","Produkt se SKU '%1' není spojen s produktem se SKU '%2'",module,Magento_Catalog
 "Product %1 doesn't have linked %2 as %3","Produkt %1 není propojen %2 jako %3",module,Magento_Catalog
 "The product that was requested doesn't exist. Verify the product and try again.","The product that was requested doesn't exist. Verify the product and try again.",module,Magento_Catalog
-"The Product with the ""%1"" SKU doesn't exist.","The Product with the ""%1"" SKU doesn't exist.",module,Magento_Catalog
+"The Product with the ""%1"" SKU doesn't exist.","Produkt se SKU kódem ""%1"" neexistuje.",module,Magento_Catalog
 "Invalid product data: %1","Neplatné údaje produktu: %1",module,Magento_Catalog
-"Database connection error","Database connection error",module,Magento_Catalog
+"Database connection error","Chyba v připojení k databázi",module,Magento_Catalog
 "Database deadlock found when trying to get lock","Database deadlock found when trying to get lock",module,Magento_Catalog
 "Database lock wait timeout exceeded","Database lock wait timeout exceeded",module,Magento_Catalog
-"The ""%1"" product couldn't be removed.","The ""%1"" product couldn't be removed.",module,Magento_Catalog
+"The ""%1"" product couldn't be removed.","Produkt ""%1"" nelze odstranit.",module,Magento_Catalog
 "There are not websites for assign to product","K přiřazení k produktu neexistuje žádný web",module,Magento_Catalog
 "Could not assign product ""%1"" to websites ""%2""","K webu ""%2"" nelze produkt ""%1"" přiřadit",module,Magento_Catalog
 "Could not save product ""%1"" with websites %2","S webem ""%2"" nelze produkt ""%1"" uložit",module,Magento_Catalog
@@ -1916,20 +1916,20 @@
 "%1 doesn't extend \Magento\Framework\Filter\Template","%1 nerozšiřuje \Magento\Framework\Filter\Template",module,Magento_Catalog
 "As low as","Již od",module,Magento_Catalog
 "test","test",module,Magento_Catalog
-"Some exception","Some exception",module,Magento_Catalog
+"Some exception","Nějaká vyjímka",module,Magento_Catalog
 "Could not get extension attributes","Could not get extension attributes",module,Magento_Catalog
 "message","zpráva",module,Magento_Catalog
 "fl","fl",module,Magento_Catalog
-"Lock wait timeout","Lock wait timeout",module,Magento_Catalog
+"Lock wait timeout","Vypršel čas zámku",module,Magento_Catalog
 "123","123",module,Magento_Catalog
 "Images","Obrázky",module,Magento_Catalog
 "Select...","Zvolit...",module,Magento_Catalog
-"Category with ID: %s doesn't exist","Category with ID: %s doesn't exist",module,Magento_Catalog
-"Product Name or SKU","Product Name or SKU",module,Magento_Catalog
-"Start typing to find products","Start typing to find products",module,Magento_Catalog
-"Product with ID: %s doesn't exist","Product with ID: %s doesn't exist",module,Magento_Catalog
+"Category with ID: %s doesn't exist","Kategorie s ID: %s neexistuje",module,Magento_Catalog
+"Product Name or SKU","Název produktu nebo SKU",module,Magento_Catalog
+"Start typing to find products","Pro nalezení produktu začněte psát",module,Magento_Catalog
+"Product with ID: %s doesn't exist","Produkt s ID ""%s"" neexistuje",module,Magento_Catalog
 "Advanced Pricing","Pokročilá cenotvorba",module,Magento_Catalog
-"Customer Group Price","Customer Group Price",module,Magento_Catalog
+"Customer Group Price","Cena pro skupinu zákazníků",module,Magento_Catalog
 "Customer Group","Skupina zákazníků",module,Magento_Catalog
 "Special Price From","Akční cena od",module,Magento_Catalog
 "To","Pro",module,Magento_Catalog
@@ -1943,7 +1943,7 @@
 "Select Attribute","Zvolit atribut",module,Magento_Catalog
 "Create New Attribute","Vytvořit nový atribut",module,Magento_Catalog
 "Customizable Options","Přizpůsobitelné volby",module,Magento_Catalog
-"Custom options let customers choose the product variations they want.","Custom options let customers choose the product variations they want.",module,Magento_Catalog
+"Custom options let customers choose the product variations they want.","Vlastní možnosti umožňují zákazníkům vybrat požadovanou variantu produktu.",module,Magento_Catalog
 "Add Option","Přidat volbu",module,Magento_Catalog
 "New Option","Nová možnost",module,Magento_Catalog
 "Select Product","Zvolte produkt",module,Magento_Catalog
@@ -1978,7 +1978,7 @@
 "Actions","Akce",module,Magento_Catalog
 "Schedule Update From","Naplánovat změnu od",module,Magento_Catalog
 "Product in Websites","Produkt na webech",module,Magento_Catalog
-"If your Magento installation has multiple websites, you can edit the scope to use the product on specific sites.","If your Magento installation has multiple websites, you can edit the scope to use the product on specific sites.",module,Magento_Catalog
+"If your Magento installation has multiple websites, you can edit the scope to use the product on specific sites.","Má-li vaše Magento více obchodů, můžete upravit rozsah a použít produkt na konkrétních obchodech.",module,Magento_Catalog
 "name","název",module,Magento_Catalog
 "Copy Data from","Kopírovat data z",module,Magento_Catalog
 "If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.","Pokud neexistují žádné vlastní nadřazené kategorie, použijte výchozí nadřazenou kategorii. Kategorii můžete přiřadit kdykoli v <a href=""%1"" target=""_blank""> Produkty &gt; Kategorie</a>.",module,Magento_Catalog
@@ -1997,7 +1997,7 @@
 "Unassigned Attributes","Nepřiřazené atributy",module,Magento_Catalog
 "A name is required.","Název je povinný.",module,Magento_Catalog
 "This group contains system attributes. Please move system attributes to another group and try again.","Tato skupina obsahuje systémové atributy. Atributy přemístěte do jiné skupiny a zkuste to znovu.",module,Magento_Catalog
-"Please select a node.","Please select a node.",module,Magento_Catalog
+"Please select a node.","Prosím vyberte uzel.",module,Magento_Catalog
 "Please enter a new group name.","Zadejte nový název skupiny prosím.",module,Magento_Catalog
 "An attribute group named ""/name/"" already exists.","An attribute group named ""/name/"" already exists.",module,Magento_Catalog
 "Sorry, we're unable to complete this request.","Je nám líto, požadavek nelze dokončit.",module,Magento_Catalog
@@ -2100,24 +2100,24 @@
 "View as","Zobrazení",module,Magento_Catalog
 "More Information","Více informací",module,Magento_Catalog
 "Loading...","Nahrávám...",module,Magento_Catalog
-"Maximum %1 characters","Maximum %1 characters",module,Magento_Catalog
+"Maximum %1 characters","Maximálně %1 znaků",module,Magento_Catalog
 "* Required Fields","* Povinný údaj",module,Magento_Catalog
 "Availability","Dostupnost",module,Magento_Catalog
-"Warning message","Varovná zpráva",module,Magento_Catalog
+"Warning message","Upozornění",module,Magento_Catalog
 "We don't recognize or support this file extension type.","Nelze rozpoznat nebo není podporována tato přípona souboru.",module,Magento_Catalog
 "Configure Product","Sestavit produkt",module,Magento_Catalog
 "OK","OK",module,Magento_Catalog
-"This value does not follow the specified format (for example, 200X300).","This value does not follow the specified format (for example, 200X300).",module,Magento_Catalog
+"This value does not follow the specified format (for example, 200X300).","Tato hodnota není podle zadaného formátu (například: 200 X 300).",module,Magento_Catalog
 "Select type of option.","Zvolte typ volby",module,Magento_Catalog
 "Please add rows to option.","Přidejte řádky volby.",module,Magento_Catalog
-"An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again.",module,Magento_Catalog
+"An item needs to be selected. Select and try again.","Položka musí být vybrána. Vyberte a zkuste znovu.",module,Magento_Catalog
 "Choose existing category.","Zvolte existující kategorii.",module,Magento_Catalog
 "Sending attribute values as package.","Sending attribute values as package.",module,Magento_Catalog
 "Image Detail","Detail obrázku",module,Magento_Catalog
 "Adding...","Přidávám...",module,Magento_Catalog
 "Added","Přidáno",module,Magento_Catalog
-"remaining","remaining",module,Magento_Catalog
-"too many","too many",module,Magento_Catalog
+"remaining","zbývá",module,Magento_Catalog
+"too many","příliš mnoho",module,Magento_Catalog
 "does not implement Storage Interface","does not implement Storage Interface",module,Magento_Catalog
 "unselect all","zrušit výběr",module,Magento_Catalog
 "Inventory","Inventář",module,Magento_Catalog
@@ -2133,9 +2133,9 @@
 "Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Použijte {{name}} jako zástupce názvu nebo {{sku}} jako zástupce kódu",module,Magento_Catalog
 "Mask for Meta Description","Maska meta popisu",module,Magento_Catalog
 "Use {{name}} and {{description}} as Product Name and Product Description placeholders","Použijte {{name}} a {{description}} jako zástupce názvu a popisu",module,Magento_Catalog
-"Recently Viewed/Compared Products","Recently Viewed/Compared Products",module,Magento_Catalog
-"Lifetime of products in Recently Viewed Widget","Lifetime of products in Recently Viewed Widget",module,Magento_Catalog
-"Lifetime of products in Recently Compared Widget","Lifetime of products in Recently Compared Widget",module,Magento_Catalog
+"Recently Viewed/Compared Products","Poslední zobrazené / porovnávané produkty",module,Magento_Catalog
+"Lifetime of products in Recently Viewed Widget","Doba, po kterou je produkt zobrazen ve widgetu Nedávno zobrazených produktech",module,Magento_Catalog
+"Lifetime of products in Recently Compared Widget","Doba, po kterou je produkt zobrazen ve widgetu Nedávno porovnaných produktech",module,Magento_Catalog
 "Synchronize widget products with backend storage","Synchronize widget products with backend storage",module,Magento_Catalog
 "Storefront","Obchod",module,Magento_Catalog
 "List Mode","Způsob zobrazení",module,Magento_Catalog
@@ -2170,11 +2170,11 @@
 "Use Static URLs for Media Content in WYSIWYG","Use Static URLs for Media Content in WYSIWYG",module,Magento_Catalog
 "Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.",module,Magento_Catalog
 "Top Level Category","Kategorie nejvyšší úrovně",module,Magento_Catalog
-"Default Layouts","Default Layouts",module,Magento_Catalog
-"Default Product Layout","Default Product Layout",module,Magento_Catalog
-"Default Category Layout","Default Category Layout",module,Magento_Catalog
-"Product Info Column","Product Info Column",module,Magento_Catalog
-"Block after Info Column","Block after Info Column",module,Magento_Catalog
+"Default Layouts","Výchozí rozložení",module,Magento_Catalog
+"Default Product Layout","Výchozí rozložení detailu produktu",module,Magento_Catalog
+"Default Category Layout","Výchozí rozložení kategorie",module,Magento_Catalog
+"Product Info Column","Sloupec Product Info",module,Magento_Catalog
+"Block after Info Column","Blok za Info sloupcem",module,Magento_Catalog
 "Product Flat Data","Sloučená data produktu",module,Magento_Catalog
 "Reorganize EAV product structure to flat structure","Přebudovat EAV strukturu produktu na sloučenou",module,Magento_Catalog
 "Category Flat Data","Sloučená data kategorie",module,Magento_Catalog
@@ -2205,9 +2205,9 @@
 "Cache Lifetime (Seconds)","Životnost mezipaměti (vteřiny)",module,Magento_Catalog
 "Time in seconds between the widget updates.
                     <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","Time in seconds between the widget updates.
-                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.",module,Magento_Catalog
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","Čas v vteřinách mezi aktualizacemi widgetu.
+                    <br/>Pokud není nastavena, je použito 86 400 vyeřin (24 hodin). Chcete-li aktualizovat widget okamžitě, přejděte na Správa mezipaměti a vymažte cache Bloky HTML výstup.
+                    <br/>Widget nebude zobrazovat produkty, které odpovídající zadaným podmínkám, dokud není aktualizována mezipaměť.",module,Magento_Catalog
 "Catalog Product Link","Odkaz produktu katalogu",module,Magento_Catalog
 "Link to a Specified Product","Odkaz na konkrétní produkt",module,Magento_Catalog
 "Select Product...","Vyberte produkt...",module,Magento_Catalog
@@ -2224,11 +2224,11 @@
 "Category Link Inline Template","Řádkový odkaz kategorie",module,Magento_Catalog
 "Recently Viewed Products","Nedávno zobrazené produkty",module,Magento_Catalog
 "List of Products Recently Viewed by Visitor","Seznam posledních zobrazených produktů",module,Magento_Catalog
-"UI Component","UI Component",module,Magento_Catalog
+"UI Component","UI Komponenta",module,Magento_Catalog
 "Number of Products to display","Počet produktů k zobrazení",module,Magento_Catalog
 "Product attributes to show","Počet atributů k zobrazení",module,Magento_Catalog
 "Image","Obrázek",module,Magento_Catalog
-"Learn More Link","Learn More Link",module,Magento_Catalog
+"Learn More Link","Odkaz Dozvědět se více",module,Magento_Catalog
 "Buttons to show","Tlačítka k zobrazení",module,Magento_Catalog
 "Add to Wishlist","Přidat k oblíbeným",module,Magento_Catalog
 "Viewed Products Grid Template","Zobrazené produkty v mřížce",module,Magento_Catalog
@@ -2274,7 +2274,7 @@
 "Image Position","Pozice obrázku",module,Magento_Catalog
 "Attribute Properties","Vlastnosti atributu",module,Magento_Catalog
 "Attribute Label","Název atributu",module,Magento_Catalog
-"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.",module,Magento_Catalog
+"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Vstupní pole Textový editor vyžaduje zapnutý WYSIWYG v Obchody > Nastavení > Správa obsahu.",module,Magento_Catalog
 "Catalog Input Type for Store Owner","Catalog Input Type for Store Owner",module,Magento_Catalog
 "Values","Hodnoty",module,Magento_Catalog
 "Add this attribute to the list of column options in the product grid.","Přidejte tento atribut do seznamu možností sloupce v mřížkovém zobrazení produktů.",module,Magento_Catalog
@@ -2677,31 +2677,31 @@
 "Number of top search results to cache","Number of top search results to cache",module,Magento_CatalogSearch
 "Autocomplete Limit","Autocomplete Limit",module,Magento_CatalogSearch
 "Rebuild Catalog product fulltext search index","Obnovení indexu fultextového hledání v katalogu",module,Magento_CatalogSearch
-"The ProductSku is empty. Set the ProductSku and try again.","The ProductSku is empty. Set the ProductSku and try again.",module,Magento_CatalogStaging
-"The ""%1"" attribute is required. Enter and try again.","The ""%1"" attribute is required. Enter and try again.",module,Magento_CatalogStaging
+"The ProductSku is empty. Set the ProductSku and try again.","Kód SKU produktu je prázdný. Nastavte kód SKU produktu a zkuste znovu.",module,Magento_CatalogStaging
+"The ""%1"" attribute is required. Enter and try again.","Atribut ""%1"" je povinný. Zadejte jej a zkuste znovu.",module,Magento_CatalogStaging
 "Enabled","Povolit",module,Magento_CatalogStaging
 "Disabled","Zakázáno",module,Magento_CatalogStaging
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again.",module,Magento_CatalogStaging
-"The product was unable to be saved. Please try again.","The product was unable to be saved. Please try again.",module,Magento_CatalogStaging
-"The image cannot be removed as it has been assigned to the other image role","The image cannot be removed as it has been assigned to the other image role",module,Magento_CatalogStaging
-"Could not save Prices.","Could not save Prices.",module,Magento_CatalogStaging
-"Invalid attribute %fieldName = %fieldValue.","Invalid attribute %fieldName = %fieldValue.",module,Magento_CatalogStaging
-"The requested price is not found.","The requested price is not found.",module,Magento_CatalogStaging
-"Could not delete Prices","Could not delete Prices",module,Magento_CatalogStaging
-"Update %1 from %2 to %3.","Update %1 from %2 to %3.",module,Magento_CatalogStaging
+"Future Update already exists in this time range. Set a different range and try again.","Budoucí aktualizace již existuje v tomto časovém rozmezí. Nastavte jiný rozsah a akci zopakujte.",module,Magento_CatalogStaging
+"The product was unable to be saved. Please try again.","Produkt se nepodařilo uložit. Opakujte akci.",module,Magento_CatalogStaging
+"The image cannot be removed as it has been assigned to the other image role","Obrázek nelze odebrat, protože mu byla přiřazena jiná úloha",module,Magento_CatalogStaging
+"Could not save Prices.","Nelze uložit ceny.",module,Magento_CatalogStaging
+"Invalid attribute %fieldName = %fieldValue.","Neplatný atribut %fieldName = %fieldValue.",module,Magento_CatalogStaging
+"The requested price is not found.","Nebyla nalezena požadovaná cena.",module,Magento_CatalogStaging
+"Could not delete Prices","Nelze odstranit ceny",module,Magento_CatalogStaging
+"Update %1 from %2 to %3.","Aktualizace %1 od %2 do %3.",module,Magento_CatalogStaging
 "Design","Vzhled",module,Magento_CatalogStaging
 "View/Edit","Zobrazit / upravit",module,Magento_CatalogStaging
 "Delete","Smazat",module,Magento_CatalogStaging
 "Preview","Náhled",module,Magento_CatalogStaging
 "Set Product as New","Nastavení produktu jako nový",module,Magento_CatalogStaging
-"Store View:","Store View:",module,Magento_CatalogStaging
+"Store View:","Pohled obchodu:",module,Magento_CatalogStaging
 "Stores Configuration","Nastavení obchodů",module,Magento_CatalogStaging
 "Scheduled Changes","Plánované změny",module,Magento_CatalogStaging
 "Name","Jméno",module,Magento_CatalogStaging
 "Description","Popis",module,Magento_CatalogStaging
 "Action","Akce",module,Magento_CatalogStaging
-"Update Information","Update Information",module,Magento_CatalogStaging
-"Schedule Update","Schedule Update",module,Magento_CatalogStaging
+"Update Information","Informace o aktualizaci",module,Magento_CatalogStaging
+"Schedule Update","Naplánovat aktualizaci",module,Magento_CatalogStaging
 "Update Name","Název aktualizace",module,Magento_CatalogStaging
 "Start Date","Začátek",module,Magento_CatalogStaging
 "End Date","Konec",module,Magento_CatalogStaging
@@ -2715,9 +2715,9 @@
 "Anchor","Kotva",module,Magento_CatalogStaging
 "Sort Products By","Řadit produkty podle",module,Magento_CatalogStaging
 "Use All","Použít vše",module,Magento_CatalogStaging
-"Default Product Sorting","Default Product Sorting",module,Magento_CatalogStaging
-"Use Config Settings","Use Config Settings",module,Magento_CatalogStaging
-"Layered Navigation Price Step","Layered Navigation Price Step",module,Magento_CatalogStaging
+"Default Product Sorting","Výchozí řazení produktů",module,Magento_CatalogStaging
+"Use Config Settings","Použít nastavení konfigurace",module,Magento_CatalogStaging
+"Layered Navigation Price Step","Cenový krok v navigaci ve vrstvách",module,Magento_CatalogStaging
 "Search Engine Optimization","Optimalizace pro vyhledávače",module,Magento_CatalogStaging
 "Meta Title","Meta název",module,Magento_CatalogStaging
 "Meta Keywords","Meta klíčová slova",module,Magento_CatalogStaging
@@ -2728,16 +2728,16 @@
 "Layout Update XML","Úprava XML rozložení",module,Magento_CatalogStaging
 "Apply Design to Products","Použít vzhled na produkty",module,Magento_CatalogStaging
 "Save as a New Update","Uložit jako novou aktualizaci",module,Magento_CatalogStaging
-"Move to Another Update","Move to Another Update",module,Magento_CatalogStaging
+"Move to Another Update","Přesun do další aktualizace",module,Magento_CatalogStaging
 "Delete the Update","Odstranit aktualizaci",module,Magento_CatalogStaging
-"The category will be removed from the update and all scheduled changes will be lost.","The category will be removed from the update and all scheduled changes will be lost.",module,Magento_CatalogStaging
+"The category will be removed from the update and all scheduled changes will be lost.","Kategorie bude odebrána z aktualizace a všechny plánované změny budou ztraceny.",module,Magento_CatalogStaging
 "200","200",module,Magento_CatalogStaging
 "100","100",module,Magento_CatalogStaging
 "50","50",module,Magento_CatalogStaging
 "30","30",module,Magento_CatalogStaging
 "20","20",module,Magento_CatalogStaging
 "Start Time","Čas zahájení",module,Magento_CatalogStaging
-"End Time","End Time",module,Magento_CatalogStaging
+"End Time","Čas ukončení",module,Magento_CatalogStaging
 "ID","ID",module,Magento_CatalogStaging
 "Thumbnail","Náhled",module,Magento_CatalogStaging
 "Attribute Set","Sada atributů",module,Magento_CatalogStaging
@@ -2747,10 +2747,10 @@
 "Type","Typ",module,Magento_CatalogStaging
 "SKU","SKU",module,Magento_CatalogStaging
 "Price","Cena",module,Magento_CatalogStaging
-"Remove Product from Update","Remove Product from Update",module,Magento_CatalogStaging
+"Remove Product from Update","Odstranit produkt z aktualizace",module,Magento_CatalogStaging
 "Images","Obrázky",module,Magento_CatalogStaging
-"The product will be removed from the update and all scheduled changes will be lost.","The product will be removed from the update and all scheduled changes will be lost.",module,Magento_CatalogStaging
-"Currently Active","Currently Active",module,Magento_CatalogStaging
+"The product will be removed from the update and all scheduled changes will be lost.","Produkt bude odstraněn z aktualizace a všechny naplánované změny budou ztraceny.",module,Magento_CatalogStaging
+"Currently Active","Právě aktivní",module,Magento_CatalogStaging
 "Products","Produkty",module,Magento_CatalogStaging
 "Categories","Kategorie",module,Magento_CatalogStaging
 "Path","Cesta",module,Magento_CatalogStaging
@@ -3980,7 +3980,7 @@
 "Remove Product","Odebrat produkt",module,Magento_ConfigurableProduct
 "Create Product Configurations","Vytvořit konfigurace produktu",module,Magento_ConfigurableProduct
 "Cancel","Zrušit",module,Magento_ConfigurableProduct
-"As low as","As low as",module,Magento_ConfigurableProduct
+"As low as","Již od",module,Magento_ConfigurableProduct
 "Regular Price","Běžná cena",module,Magento_ConfigurableProduct
 "New Product Review","Přehled nových produktů",module,Magento_ConfigurableProduct
 "Here are the products you're about to create.","Zde jsou produkty, které právě se chystáte vytvořit.",module,Magento_ConfigurableProduct
@@ -4041,9 +4041,9 @@
 "Page not found.","Stránka nebyla nalezena.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Děkujeme, že nám zasíláte své připomínky, dotazy a komentáře. Jakmile to bude možné, odpovíme.",module,Magento_Contact
 "An error occurred while processing your form. Please try again later.","Při zpracování formuláře došlo k chybě. Opakujte akci později.",module,Magento_Contact
-"Enter the Name and try again.","Enter the Name and try again.",module,Magento_Contact
-"Enter the comment and try again.","Enter the comment and try again.",module,Magento_Contact
-"The email address is invalid. Verify the email address and try again.","The email address is invalid. Verify the email address and try again.",module,Magento_Contact
+"Enter the Name and try again.","Zadejte jméno a zkuste znovu.",module,Magento_Contact
+"Enter the comment and try again.","Zadejte komentář a zkuste znovu.",module,Magento_Contact
+"The email address is invalid. Verify the email address and try again.","E-mailová adresa je neplatná. Zkontrolujte e-mailovou adresu a zkuste znovu.",module,Magento_Contact
 "* Required Fields","* Povinná pole",module,Magento_Contact
 "Write Us","Napište nám",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Zanechte nám zprávu a my se vám ozveme co nejdříve.",module,Magento_Contact
@@ -4739,60 +4739,60 @@
 "Refund Store Credit Automatically","Refund Store Credit Automatically",module,Magento_CustomerBalance
 "Store Credit Update Email Sender","Store Credit Update Email Sender",module,Magento_CustomerBalance
 "Store Credit Update Email Template","Store Credit Update Email Template",module,Magento_CustomerBalance
-"Customer Address Attributes","Customer Address Attributes",module,Magento_CustomerCustomAttributes
+"Customer Address Attributes","Atributy adresy zákazníka",module,Magento_CustomerCustomAttributes
 "Add New Attribute","Přidat nový atribut",module,Magento_CustomerCustomAttributes
 "Save and Continue Edit","Použít",module,Magento_CustomerCustomAttributes
 "Save Attribute","Uložit atribut",module,Magento_CustomerCustomAttributes
 "Delete Attribute","Odstranit atribut",module,Magento_CustomerCustomAttributes
-"Edit Customer Address Attribute ""%1""","Edit Customer Address Attribute ""%1""",module,Magento_CustomerCustomAttributes
-"New Customer Address Attribute","New Customer Address Attribute",module,Magento_CustomerCustomAttributes
-"Input Type","Input Type",module,Magento_CustomerCustomAttributes
+"Edit Customer Address Attribute ""%1""","Upravit atribut zákazníkovi adresy ""%1""",module,Magento_CustomerCustomAttributes
+"New Customer Address Attribute","Nový atribut zákazníkovi adresy",module,Magento_CustomerCustomAttributes
+"Input Type","Typ vstupu",module,Magento_CustomerCustomAttributes
 "Lines Count","Počet řádků",module,Magento_CustomerCustomAttributes
 "Valid range 2-20","Platný rozsah 2-20",module,Magento_CustomerCustomAttributes
-"Input Validation","Input Validation",module,Magento_CustomerCustomAttributes
+"Input Validation","Validace vstupu",module,Magento_CustomerCustomAttributes
 "None","Nic",module,Magento_CustomerCustomAttributes
 "Minimum Text Length","Minimální délka textu",module,Magento_CustomerCustomAttributes
 "Maximum Text Length","Maximální délka textu",module,Magento_CustomerCustomAttributes
 "Maximum File Size (bytes)","Maximální velikost souboru (bajty)",module,Magento_CustomerCustomAttributes
 "File Extensions","Přípony souborů",module,Magento_CustomerCustomAttributes
-"Comma separated","Comma separated",module,Magento_CustomerCustomAttributes
-"Maximum Image Width (px)","Maximum Image Width (px)",module,Magento_CustomerCustomAttributes
+"Comma separated","Oddělené čárkou",module,Magento_CustomerCustomAttributes
+"Maximum Image Width (px)","Maximální šířka obrázku (px)",module,Magento_CustomerCustomAttributes
 "Maximum Image Height (px)","Maximální výška obrázku (px)",module,Magento_CustomerCustomAttributes
 "Input/Output Filter","Vstupně/výstupní filtr",module,Magento_CustomerCustomAttributes
 "Minimal value","Minimální hodnota",module,Magento_CustomerCustomAttributes
 "Maximum value","Maximální hodnota",module,Magento_CustomerCustomAttributes
 "Add to Column Options","Add to Column Options",module,Magento_CustomerCustomAttributes
 "Select ""Yes"" to add this attribute to the list of column options in the customer grid.","Select ""Yes"" to add this attribute to the list of column options in the customer grid.",module,Magento_CustomerCustomAttributes
-"Use in Filter Options","Use in Filter Options",module,Magento_CustomerCustomAttributes
+"Use in Filter Options","Použít ve volbách filtrování",module,Magento_CustomerCustomAttributes
 "Select ""Yes"" to add this attribute to the list of filter options in the customer grid.","Select ""Yes"" to add this attribute to the list of filter options in the customer grid.",module,Magento_CustomerCustomAttributes
 "Use in Search Options","Use in Search Options",module,Magento_CustomerCustomAttributes
 "Use in Search Option","Use in Search Option",module,Magento_CustomerCustomAttributes
 "Select ""Yes"" to add this attribute to the list of search options in the customer grid.","Select ""Yes"" to add this attribute to the list of search options in the customer grid.",module,Magento_CustomerCustomAttributes
 "Storefront Properties","Storefront Properties",module,Magento_CustomerCustomAttributes
-"Show on Storefront","Show on Storefront",module,Magento_CustomerCustomAttributes
+"Show on Storefront","Zobrazit v obchodě",module,Magento_CustomerCustomAttributes
 "Sort Order","Řadit podle",module,Magento_CustomerCustomAttributes
-"Forms to Use In","Forms to Use In",module,Magento_CustomerCustomAttributes
+"Forms to Use In","Použít ve formuláři",module,Magento_CustomerCustomAttributes
 "Properties","Vlastnosti",module,Magento_CustomerCustomAttributes
-"Manage Label / Options","Manage Label / Options",module,Magento_CustomerCustomAttributes
+"Manage Label / Options","Správá nadpisů a voleb",module,Magento_CustomerCustomAttributes
 "Attribute Information","Informace o atributu",module,Magento_CustomerCustomAttributes
-"Visible to Customer","Visible to Customer",module,Magento_CustomerCustomAttributes
+"Visible to Customer","Viditelné pro zákazníka",module,Magento_CustomerCustomAttributes
 "No","Ne",module,Magento_CustomerCustomAttributes
 "Yes","Ano",module,Magento_CustomerCustomAttributes
 "Customer Attributes","Atributy zákazníka",module,Magento_CustomerCustomAttributes
-"Edit Customer Attribute ""%1""","Edit Customer Attribute ""%1""",module,Magento_CustomerCustomAttributes
+"Edit Customer Attribute ""%1""","Upravit atribut zákazníka ""%1""",module,Magento_CustomerCustomAttributes
 "New Customer Attribute","Nový atribut zákazníka",module,Magento_CustomerCustomAttributes
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","Používá se interně. Ujistěte se, že nepoužíváte mezery nebo více než %1 znaků.",module,Magento_CustomerCustomAttributes
-"Manage Form Types","Manage Form Types",module,Magento_CustomerCustomAttributes
-"New Form Type","New Form Type",module,Magento_CustomerCustomAttributes
-"Edit Form Type ""%1""","Edit Form Type ""%1""",module,Magento_CustomerCustomAttributes
+"Manage Form Types","Správa typů formulářů",module,Magento_CustomerCustomAttributes
+"New Form Type","Nový typ formuláře",module,Magento_CustomerCustomAttributes
+"Edit Form Type ""%1""","Upravit typ formuláře ""%1""",module,Magento_CustomerCustomAttributes
 "General Information","Všeobecné informace",module,Magento_CustomerCustomAttributes
 "-- Please Select --","– Vyberte –",module,Magento_CustomerCustomAttributes
 "Based On","Na základě",module,Magento_CustomerCustomAttributes
-"Form Label","Form Label",module,Magento_CustomerCustomAttributes
+"Form Label","Nadpis formuláře",module,Magento_CustomerCustomAttributes
 "All Themes","Všecha témata",module,Magento_CustomerCustomAttributes
 "For Theme","Pro téma",module,Magento_CustomerCustomAttributes
 "Store View","Zobrazení obchodu",module,Magento_CustomerCustomAttributes
-"Form Code","Form Code",module,Magento_CustomerCustomAttributes
+"Form Code","Kód formuláře",module,Magento_CustomerCustomAttributes
 "Form Title","Název formuláře",module,Magento_CustomerCustomAttributes
 "General","Obecné",module,Magento_CustomerCustomAttributes
 "New Fieldset","New Fieldset",module,Magento_CustomerCustomAttributes
@@ -4811,14 +4811,14 @@
 "You deleted the customer address attribute.","You deleted the customer address attribute.",module,Magento_CustomerCustomAttributes
 "We can't delete the customer address attribute right now.","Atribut adresy zákazníka momentálně nelze odstranit.",module,Magento_CustomerCustomAttributes
 "This attribute no longer exists.","This attribute no longer exists.",module,Magento_CustomerCustomAttributes
-"You cannot edit this attribute.","You cannot edit this attribute.",module,Magento_CustomerCustomAttributes
+"You cannot edit this attribute.","Tento atribut nelze upravovat.",module,Magento_CustomerCustomAttributes
 "Edit Customer Address Attribute","Edit Customer Address Attribute",module,Magento_CustomerCustomAttributes
 "You saved the customer address attribute.","You saved the customer address attribute.",module,Magento_CustomerCustomAttributes
 "We can't save the customer address attribute right now.","Atribut adresy zákazníka momentálně nelze uložit.",module,Magento_CustomerCustomAttributes
-"An attribute with this code already exists.","An attribute with this code already exists.",module,Magento_CustomerCustomAttributes
+"An attribute with this code already exists.","Atribut s tímto kódem již existuje.",module,Magento_CustomerCustomAttributes
 "Manage Customer Attributes","Manage Customer Attributes",module,Magento_CustomerCustomAttributes
 "You deleted the customer attribute.","You deleted the customer attribute.",module,Magento_CustomerCustomAttributes
-"The attribute no longer exists.","The attribute no longer exists.",module,Magento_CustomerCustomAttributes
+"The attribute no longer exists.","Tento atribut již neexistuje.",module,Magento_CustomerCustomAttributes
 "Edit Customer Attribute","Edit Customer Attribute",module,Magento_CustomerCustomAttributes
 "You saved the customer attribute.","You saved the customer attribute.",module,Magento_CustomerCustomAttributes
 "We can't save the form type right now.","We can't save the form type right now.",module,Magento_CustomerCustomAttributes
@@ -4868,13 +4868,13 @@
 "Email","E-mail",module,Magento_CustomerCustomAttributes
 "Current Password","Současné heslo",module,Magento_CustomerCustomAttributes
 "New Password","Nové heslo",module,Magento_CustomerCustomAttributes
-"Password Strength","Password Strength",module,Magento_CustomerCustomAttributes
+"Password Strength","Síla hesla",module,Magento_CustomerCustomAttributes
 "No Password","Žádné heslo",module,Magento_CustomerCustomAttributes
 "Confirm New Password","Potvrzení nového hesla",module,Magento_CustomerCustomAttributes
 "Personal Information","Osobní údaje",module,Magento_CustomerCustomAttributes
 "Sign Up for Newsletter","Odebírat newsletter",module,Magento_CustomerCustomAttributes
 "Address Information","Informace o adrese",module,Magento_CustomerCustomAttributes
-"Sign-in Information","Sign-in Information",module,Magento_CustomerCustomAttributes
+"Sign-in Information","Přihlašovací údaje",module,Magento_CustomerCustomAttributes
 "Password","Heslo",module,Magento_CustomerCustomAttributes
 "Confirm Password","Potvrzení hesla",module,Magento_CustomerCustomAttributes
 "Create an Account","Vytvořit účet",module,Magento_CustomerCustomAttributes
@@ -7471,11 +7471,11 @@
 "Catalog Total Price (Incl. Tax)","Catalog Total Price (Incl. Tax)",module,Magento_NegotiableQuote
 "Catalog Total Price","Catalog Total Price",module,Magento_NegotiableQuote
 "Negotiated Discount","Negotiated Discount",module,Magento_NegotiableQuote
-"Back","Back",module,Magento_NegotiableQuote
-"Print","Print",module,Magento_NegotiableQuote
-"Save as Draft","Save as Draft",module,Magento_NegotiableQuote
-"Decline","Decline",module,Magento_NegotiableQuote
-"Send","Send",module,Magento_NegotiableQuote
+"Back","Zpět",module,Magento_NegotiableQuote
+"Print","Tisk",module,Magento_NegotiableQuote
+"Save as Draft","Uložit jako koncept",module,Magento_NegotiableQuote
+"Decline","Odmítnout",module,Magento_NegotiableQuote
+"Send","Odeslat",module,Magento_NegotiableQuote
 "This action cannot be performed because you have products requiring attention. You must resolve these issues before you can continue.","This action cannot be performed because you have products requiring attention. You must resolve these issues before you can continue.",module,Magento_NegotiableQuote
 "Cannot Perform the Requested Action","Cannot Perform the Requested Action",module,Magento_NegotiableQuote
 "%creator (for %customer)","%creator (for %customer)",module,Magento_NegotiableQuote
@@ -7483,17 +7483,17 @@
 "Subtotal (Incl. Tax)","Subtotal (Incl. Tax)",module,Magento_NegotiableQuote
 "Subtotal (Excl. Tax)","Subtotal (Excl. Tax)",module,Magento_NegotiableQuote
 "Add to Quote by SKU","Add to Quote by SKU",module,Magento_NegotiableQuote
-"Add to Quote","Add to Quote",module,Magento_NegotiableQuote
-"Cancel","Cancel",module,Magento_NegotiableQuote
-"Total Cost","Total Cost",module,Magento_NegotiableQuote
-"Negotiated Price","Negotiated Price",module,Magento_NegotiableQuote
-"Shipping & Handling","Shipping & Handling",module,Magento_NegotiableQuote
+"Add to Quote","Přidat do fronty",module,Magento_NegotiableQuote
+"Cancel","Zrušit",module,Magento_NegotiableQuote
+"Total Cost","Celkové náklady",module,Magento_NegotiableQuote
+"Negotiated Price","Cena dohodou",module,Magento_NegotiableQuote
+"Shipping & Handling","Přepravné a balné",module,Magento_NegotiableQuote
 "Quote Subtotal (Incl. Tax)","Quote Subtotal (Incl. Tax)",module,Magento_NegotiableQuote
 "Percentage Discount","Percentage Discount",module,Magento_NegotiableQuote
 "Amount Discount","Amount Discount",module,Magento_NegotiableQuote
 "Proposed Price","Proposed Price",module,Magento_NegotiableQuote
 "Quote Subtotal","Quote Subtotal",module,Magento_NegotiableQuote
-"My Orders","My Orders",module,Magento_NegotiableQuote
+"My Orders","Mé objednávky",module,Magento_NegotiableQuote
 "My Quotes","My Quotes",module,Magento_NegotiableQuote
 "created quote","created quote",module,Magento_NegotiableQuote
 "closed quote","closed quote",module,Magento_NegotiableQuote
@@ -7501,18 +7501,18 @@
 "Percentage Discount - %1%","Percentage Discount - %1%",module,Magento_NegotiableQuote
 "Amount Discount - %1","Amount Discount - %1",module,Magento_NegotiableQuote
 "Proposed Price - %1","Proposed Price - %1",module,Magento_NegotiableQuote
-"None","None",module,Magento_NegotiableQuote
+"None","Nic",module,Magento_NegotiableQuote
 "Qty:","Qty:",module,Magento_NegotiableQuote
 "Qty:","Qty:",module,Magento_NegotiableQuote
 "- deleted from catalog","- deleted from catalog",module,Magento_NegotiableQuote
 "(Removed)","(Removed)",module,Magento_NegotiableQuote
-"deleted","deleted",module,Magento_NegotiableQuote
+"deleted","odstraněno",module,Magento_NegotiableQuote
 "Renderer list for block ""%1"" is not defined","Renderer list for block ""%1"" is not defined",module,Magento_NegotiableQuote
 "This quote is currently locked for editing. It will become available once released by the Merchant.","This quote is currently locked for editing. It will become available once released by the Merchant.",module,Magento_NegotiableQuote
 "Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.","Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.",module,Magento_NegotiableQuote
 "You are not an owner of this quote. You cannot edit it or take any actions on it.","You are not an owner of this quote. You cannot edit it or take any actions on it.",module,Magento_NegotiableQuote
-"Discount","Discount",module,Magento_NegotiableQuote
-"Estimated Tax","Estimated Tax",module,Magento_NegotiableQuote
+"Discount","Sleva",module,Magento_NegotiableQuote
+"Estimated Tax","Odhadnout DPH",module,Magento_NegotiableQuote
 "Quote Subtotal (Excl. Tax)","Quote Subtotal (Excl. Tax)",module,Magento_NegotiableQuote
 "Quote Grand Total (Incl. Tax)","Quote Grand Total (Incl. Tax)",module,Magento_NegotiableQuote
 "Grand Total to Be Charged","Grand Total to Be Charged",module,Magento_NegotiableQuote
@@ -7767,7 +7767,7 @@
 "No shipping information available","No shipping information available",module,Magento_NegotiableQuote
 "Select a shipping address from your address book.","Select a shipping address from your address book.",module,Magento_NegotiableQuote
 "Send for Review","Send for Review",module,Magento_NegotiableQuote
-"Proceed to Checkout","Proceed to Checkout",module,Magento_NegotiableQuote
+"Proceed to Checkout","Dokončit objednávku",module,Magento_NegotiableQuote
 "Close quote","Close quote",module,Magento_NegotiableQuote
 "Delete","Delete",module,Magento_NegotiableQuote
 "Remove item","Remove item",module,Magento_NegotiableQuote
@@ -7823,7 +7823,7 @@
 "Edit","Edit",module,Magento_NegotiableQuote
 "Ship Here","Ship Here",module,Magento_NegotiableQuote
 "Update Catalog Prices","Update Catalog Prices",module,Magento_NegotiableQuote
-"If you proceed, catalog prices and cart discounts on this quote will be updated as per the latest changes in the catalog and the price rules.","If you proceed, catalog prices and cart discounts on this quote will be updated as per the latest changes in the catalog and the price rules.",module,Magento_NegotiableQuote
+"If you proceed, catalog prices and cart discounts on this quote will be updated as per the latest changes in the catalog and the price rules.","Pokud budete pokračovat pak se ceny upraví podle aktuálně nastavených slevových pravidel.",module,Magento_NegotiableQuote
 "No ordered items","No ordered items",module,Magento_NegotiableQuote
 "Please enter a number greater than 0 in this field","Please enter a number greater than 0 in this field",module,Magento_NegotiableQuote
 "This is a required field.","This is a required field.",module,Magento_NegotiableQuote
@@ -7839,7 +7839,7 @@
 "Confirm","Confirm",module,Magento_NegotiableQuote
 "OK","OK",module,Magento_NegotiableQuote
 "If you decline this quote, all custom pricing from this quote will be removed. The buyer will be able to place an order using their standard catalog prices and discounts.","If you decline this quote, all custom pricing from this quote will be removed. The buyer will be able to place an order using their standard catalog prices and discounts.",module,Magento_NegotiableQuote
-"Proceed","Proceed",module,Magento_NegotiableQuote
+"Proceed","Pokračovat",module,Magento_NegotiableQuote
 "Your file could not be uploaded. Please try again.","Your file could not be uploaded. Please try again.",module,Magento_NegotiableQuote
 "You cannot attach more than ten files per comment.","You cannot attach more than ten files per comment.",module,Magento_NegotiableQuote
 "Cannot Upload File","Cannot Upload File",module,Magento_NegotiableQuote
@@ -8943,9 +8943,9 @@
 "Role","Role",module,Magento_ProductVideo
 "YouTube and Vimeo supported.","Podporováno YouTube a Vimeo.",module,Magento_ProductVideo
 "Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo je podporováno.<br />Před vložením YouTube videa zadejte nejdříve <a href=""%1"">YouTube API klíč</a>.",module,Magento_ProductVideo
-"Protocol isn't allowed","Protocol isn't allowed",module,Magento_ProductVideo
+"Protocol isn't allowed","Protokol není povolen",module,Magento_ProductVideo
 "Disallowed file type.","Nepodporovaný typ souboru.",module,Magento_ProductVideo
-"The preview image information is unavailable. Check your connection and try again.","The preview image information is unavailable. Check your connection and try again.",module,Magento_ProductVideo
+"The preview image information is unavailable. Check your connection and try again.","Informace o náhledu nejsou k dispozici. Zkontrolujte připojení a zkuste znovu.",module,Magento_ProductVideo
 "Add Video","Přidat Video",module,Magento_ProductVideo
 "Browse to find or drag image here","Procházet počítač nebo obrázek přetáhněte sem",module,Magento_ProductVideo
 "Delete video","Odstranit video",module,Magento_ProductVideo
@@ -12692,7 +12692,7 @@
 "Edit Tax Rate","Upravit sazbu DPH",module,Magento_Tax
 "You saved the tax rate.","Sazba DPH byla uložena.",module,Magento_Tax
 "Tax Rules","Pravidla DPH",module,Magento_Tax
-"An error occurred while loading tax rates.","An error occurred while loading tax rates.",module,Magento_Tax
+"An error occurred while loading tax rates.","Došlo k chybě při načítání daňových sazeb.",module,Magento_Tax
 "The tax rule has been deleted.","Pravidlo DPH byla odstraněno.",module,Magento_Tax
 "This rule no longer exists.","Toto pravidlo již neexistuje.",module,Magento_Tax
 "Something went wrong deleting this tax rule.","Při odstranění pravidla DPH nastala chyba.",module,Magento_Tax
@@ -12704,13 +12704,13 @@
 "Invalid name of tax class specified.","Byl zadán neplatný název třídy DPH.",module,Magento_Tax
 "We can't delete this tax class right now.","Tuto třídu DPH momentálně nelze odstranit.",module,Magento_Tax
 "We can't save this tax class right now.","Tuto třídu DPH momentálně nelze uložit.",module,Magento_Tax
-"The required information is invalid. Verify the information and try again.","The required information is invalid. Verify the information and try again.",module,Magento_Tax
-"The Rate Percent is invalid. Enter a positive number and try again.","The Rate Percent is invalid. Enter a positive number and try again.",module,Magento_Tax
-"The ZIP Code length is invalid. Verify that the length is nine characters or fewer and try again.","The ZIP Code length is invalid. Verify that the length is nine characters or fewer and try again.",module,Magento_Tax
-"The ZIP Code is invalid. Use numbers only.","The ZIP Code is invalid. Use numbers only.",module,Magento_Tax
+"The required information is invalid. Verify the information and try again.","Požadované informace jsou neplatné. Zkontrolujte zadané informace a zkuste znovu.",module,Magento_Tax
+"The Rate Percent is invalid. Enter a positive number and try again.","Sazba je neplatná. Zadejte kladné číslo a zkuste znova.",module,Magento_Tax
+"The ZIP Code length is invalid. Verify that the length is nine characters or fewer and try again.","Délka PSČ je neplatná. Ověřte, že délka je devět znaků nebo méně a opakujte akci.",module,Magento_Tax
+"The ZIP Code is invalid. Use numbers only.","Poštovní směrovací číslo je neplatné. Použijte pouze čísla.",module,Magento_Tax
 "Range To should be equal or greater than Range From.","Rozsah do musí být větší než rozsah od.",module,Magento_Tax
-"The tax rate can't be removed because it exists in a tax rule.","The tax rate can't be removed because it exists in a tax rule.",module,Magento_Tax
-"""%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Tax
+"The tax rate can't be removed because it exists in a tax rule.","Daňová sazba nelze odstranit, protože existuje v daňovém pravidle.",module,Magento_Tax
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" je povinný. Zadejte jej a zkuste znovu.",module,Magento_Tax
 "Invalid value of ""%value"" provided for the %fieldName field.","Pro pole %fieldName je hodnota ""%value"" neplatná.",module,Magento_Tax
 "This class no longer exists.","Tato třída již neexistuje.",module,Magento_Tax
 "You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","Tuto třídu nelze odstranit, protože je použita v pravidlech DPH. Nejdříve se musí odstranit pravidlo.",module,Magento_Tax
@@ -12744,11 +12744,11 @@
 "Including Tax","S DPH",module,Magento_Tax
 "None","Žádné",module,Magento_Tax
 "Including and Excluding Tax","Bez DPH i s DPH",module,Magento_Tax
-"To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.",module,Magento_Tax
+"To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Chcete-li použít slevy na ceny včetně daně a uplatňovat daň po slevě, nastavte katalog ceny ""Včetně DPH"".",module,Magento_Tax
 "Store(s) affected:","Ovlivněné obchody:",module,Magento_Tax
 "Click on the link to <a href=""%1"">ignore this notification</a>","Chcete-li toto oznámení ignorovat, klikněte na <a href=""%1"">tento odkaz</a>.",module,Magento_Tax
-"With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations.","With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations.",module,Magento_Tax
-"Your current tax configuration may result in rounding errors.","Your current tax configuration may result in rounding errors.",module,Magento_Tax
+"With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations.","Při nastavení výpočtu DPH zákazníka ""Před slevou"" nemusí výsledná sleva odpovídat očekávání zákazníků.",module,Magento_Tax
+"Your current tax configuration may result in rounding errors.","Aktuální konfigurace daně může vést k chybám zaokrouhlení.",module,Magento_Tax
 "Please see <a href=""%1"">documentation</a> for more details.","Více informací v <a href=""%1"">dokumentaci</a>.",module,Magento_Tax
 "Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Přejděte do <a href=""%1"">Nastavení DPH</a> a upravte nastavení.",module,Magento_Tax
 "Invalid type of tax class ""%1""","Neplatný typ třídy DPH ""%1""",module,Magento_Tax
@@ -12788,7 +12788,7 @@
 "This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","Zde můžete nastavit, jestli ceny přepravného vkládaného ve správě Magenta obsahují DPH.",module,Magento_Tax
 "Apply Customer Tax","Výpočet DPH zákazníka",module,Magento_Tax
 "Apply Discount On Prices","Výpočet slevy z ceny",module,Magento_Tax
-"Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.",module,Magento_Tax
+"Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Upozornění: Pokud chcete uplatnit slevu na ceny včetně daně a uplatňovat daň po slevě, nastavte katalog ceny ""Včetně DPH"".",module,Magento_Tax
 "Apply Tax On","Výpočet DPH je prováděn z",module,Magento_Tax
 "Enable Cross Border Trade","Zapnout přeshraniční obchod",module,Magento_Tax
 "When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","Jsou-li ceny v katalogu včetně DPH, po zapnutí této volby bude cena stanovena bez ohledu na sazbu DPH zákazníka.",module,Magento_Tax
@@ -12815,7 +12815,7 @@
 "Order Total Excl. Tax","Celkem bez DPH",module,Magento_Tax
 "Order Total Incl. Tax","Celkem s DPH",module,Magento_Tax
 "Order Total","Objednávka celkem",module,Magento_Tax
-"You will be charged for","You will be charged for",module,Magento_Tax
+"You will be charged for","Bude vám účtováno za",module,Magento_Tax
 "Code","Kód",module,Magento_TaxImportExport
 "Country","Země",module,Magento_TaxImportExport
 "State","Kraj / region",module,Magento_TaxImportExport
