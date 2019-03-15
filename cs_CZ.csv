@@ -104,19 +104,19 @@ Configure,Nastavit,module,Magento_AdvancedCheckout
 "You must buy at least %1 of these per purchase.","Musíte si zakoupit alespoň %1 na jeden nákup.",module,Magento_AdvancedCheckout
 "Specify the product's options.","Zvolte parametry produktu.",module,Magento_AdvancedCheckout
 "Alert me when this item is available.","Upozornit mě na naskladnění produktu.",module,Magento_AdvancedCheckout
-"This customer couldn't be found. Verify the customer and try again.","This customer couldn't be found. Verify the customer and try again.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.","Tento zákazník nebyl nalezen. Ověřte zákazníka a zkuste to znovu.",module,Magento_AdvancedCheckout
 "Shopping cart management is disabled for this customer.","Správa nákupního košíku je pro tohoto zákazníka vypnuta.",module,Magento_AdvancedCheckout
-"This store couldn't be found. Verify the store and try again.","This store couldn't be found. Verify the store and try again.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","Tento obchod nebyl nalezen. Ověřte tento obchod a zkuste to znovu.",module,Magento_AdvancedCheckout
 Customers,Zákazníci,module,Magento_AdvancedCheckout
 "Shopping Cart","Nákupní košík",module,Magento_AdvancedCheckout
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log.",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.","Vyskytla se chyba. Podrobnosti naleznete v protokolu chyb.",module,Magento_AdvancedCheckout
 "You do not have access to this.","Nemáte dostatečná oprávnění.",module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
-"The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The wish list item needs to be loaded. Load the item and try again.","The wish list item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Objednávky lze provést pouze v aktivním obchodě. Ověřte obchod a zkuste to znovu.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","Objednané položky musí být načteny. Načíst položku a zkuste to znovu.",module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.","Produkt ID musí být přijat. Nastavte ID a zkuste to znovu.",module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.","Produkt potřebuje být načten. Načíst položku a zkuste to znovu.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","ID položky seznamu přání musí být přijata. Nastavte ID a zkuste to znovu.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","Položka seznamu přání musí být načtena. Vložte položku a zkuste to znovu.",module,Magento_AdvancedCheckout
 "An error has occurred. See error log for details.","Došlo k chybě. Více podrobností v protokolu chyb.",module,Magento_AdvancedCheckout
 "You cannot configure a product.","Produkt nelze konfigurovat.",module,Magento_AdvancedCheckout
 "You removed the items.","Položky byly odebrány.",module,Magento_AdvancedCheckout
@@ -147,7 +147,7 @@ Customers,Zákazníci,module,Magento_AdvancedCheckout
 "Yes, for Specified Customer Groups","Ano, pro zvolené skupiny zákazníků",module,Magento_AdvancedCheckout
 "Yes, for Everyone","Ano, pro každého",module,Magento_AdvancedCheckout
 No,Ne,module,Magento_AdvancedCheckout
-"The file is corrupt and can't be used.","The file is corrupt and can't be used.",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","Soubor je poškozen a nelze ho použít.",module,Magento_AdvancedCheckout
 "Please upload the file in .csv format.","Nahrajte soubor ve formátu CSV prosím.",module,Magento_AdvancedCheckout
 "%1 item(s) need your attention.","%1 položek vyžaduje vaši pozornost.",module,Magento_AdvancedCheckout
 "Apply Coupon Code","Použít kód kuponu",module,Magento_AdvancedCheckout
