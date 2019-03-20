@@ -1,20 +1,20 @@
 All,Vše,module,Magento_AdminGws
 None,Nic,module,Magento_AdminGws
 "Allowed Scopes","Povolené obory",module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item.",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","Více oprávnění je potřeba k odstranění ""%1"" položky.",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","K uložení úprav funkce potřebujete vyšší oprávnění.",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
-"This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
-"More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
-"More permissions are needed to delete this item.","More permissions are needed to delete this item.",module,Magento_AdminGws
-"More permissions are needed to view this item.","More permissions are needed to view this item.",module,Magento_AdminGws
-"At least one website or store group needs to be selected. Select and try again.","At least one website or store group needs to be selected. Select and try again.",module,Magento_AdminGws
-"More permissions are needed to set All Scopes to a Role.","More permissions are needed to set All Scopes to a Role.",module,Magento_AdminGws
-"The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Tento subjekt musí být přidělen na prodejní pohled.",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","Objednávky mohou být dokončeny pouze v aktivních obchodech. Ověřte stav obchodu a zkuste to znovu.",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","Tato položka musí být přiřazena k pohledu obchodu. Přiřaďte položku a zopakujte akci.",module,Magento_AdminGws
+"More permissions are needed to save this item.","K uložení této položky je potřeba více oprávnění.",module,Magento_AdminGws
+"More permissions are needed to delete this item.","Ke smazání této položky je potřeba více oprávnění.",module,Magento_AdminGws
+"More permissions are needed to view this item.","K zobrazení této položky je potřeba více oprávnění.",module,Magento_AdminGws
+"At least one website or store group needs to be selected. Select and try again.","Nejméně jedna skupina můsí být vybrána. Vyberte a zkuste znova.",module,Magento_AdminGws
+"More permissions are needed to set All Scopes to a Role.","Další oprávnění jsou potřebné k nastavení Všechny rozsahy u role.",module,Magento_AdminGws
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","ID webové stránky ""%1"" je nesprávné. Zkontrolujte ID webu a opakujte akci.",module,Magento_AdminGws
 "You need more permissions to access website ""%1"".","K přístupu k webu ""%1"" potřebujete vyšší oprávnění.",module,Magento_AdminGws
-"The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again.",module,Magento_AdminGws
-"More permissions are needed to save this setting.","More permissions are needed to save this setting.",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","ID obchodu ""%1"" je nesprávné. Zkontrolujte ID obchodu a opakujte akci.",module,Magento_AdminGws
+"More permissions are needed to save this setting.","K uložení je potřeba více oprávnění.",module,Magento_AdminGws
 "Role Scopes","Rozsahy role",module,Magento_AdminGws
 Custom,Vlastní,module,Magento_AdminGws
 "Read Details","Číst podrobnosti",module,Magento_AdminNotification
@@ -348,13 +348,13 @@ Error,Chyba,module,Magento_AsynchronousOperations
 "Dismiss All Completed Tasks","Dismiss All Completed Tasks",module,Magento_AsynchronousOperations
 "Action Details - #","Action Details - #",module,Magento_AsynchronousOperations
 "Number of Records Affected","Number of Records Affected",module,Magento_AsynchronousOperations
-"The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again.",module,Magento_Authorization
+"The role wasn't found for the user. Verify the role and try again.","Role pro uživatele nebyla nalezena. Ověřte roli a zkuste to znovu.",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Při kompilaci seznamu povolených zdrojů nastala chyba. Více informací naleznete v protokolu výjimek.",module,Magento_Authorization
 "You created the order.","Objednávka byla vytvořena.",module,Magento_Authorizenet
 "Order saving error: %1","Chyba při ukládání objednávky: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Zvolte způsob platby prosím.",module,Magento_Authorizenet
 "We can't process your order right now. Please try again later.","Vaši objednávku nelze momentálně zpracovat. Opakujte akci později prosím.",module,Magento_Authorizenet
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Authorizenet
+"A server error stopped your order from being placed. Please try to place your order again.","Chyba serveru zastavila zadávání objednávky. Zkuste prosím objednávku znovu zadat.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Číslo karty: xxxx-%1",module,Magento_Authorizenet
 "amount %1","částka %1",module,Magento_Authorizenet
 failed.,chyba.,module,Magento_Authorizenet
@@ -382,7 +382,7 @@ void,anulovat,module,Magento_Authorizenet
 "Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Transakce %1 byla anulována/odmítnuta. Stav transakce je ""%2"". Částka %3.",module,Magento_Authorizenet
 "Authorize Only","Pouze schválit",module,Magento_Authorizenet
 "Authorize and Capture","Schválit a získat",module,Magento_Authorizenet
-"The transaction details are unavailable. Please try again later.","The transaction details are unavailable. Please try again later.",module,Magento_Authorizenet
+"The transaction details are unavailable. Please try again later.","Podrobnosti o transakcích nejsou dostupné. Prosím, zkuste to opět později.",module,Magento_Authorizenet
 "Electronic payments save the trees.","Elektronické platby chrání stromy.",module,Magento_Authorizenet
 "Credit Card Type","Typ platební karty",module,Magento_Authorizenet
 "Please Select","Vyberte prosím",module,Magento_Authorizenet
@@ -430,7 +430,7 @@ Done,Hotovo,module,Magento_B2b
 "B2B Features","B2B funkce",module,Magento_B2b
 "Invalid Form Key. Please refresh the page.","Neplatný klíč formuláře. Obnovte stránku prosím.",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","Zadali jste neplatný tajný klíč. Obnovte stránku prosím.",module,Magento_Backend
-"Invalid security or form key. Please refresh the page.","Invalid security or form key. Please refresh the page.",module,Magento_Backend
+"Invalid security or form key. Please refresh the page.","Neplatný klíč formuláře. Prosím obnovte stránku.",module,Magento_Backend
 "Cache Storage Management","Správa úložiště mezipaměti",module,Magento_Backend
 "Flush Magento Cache","Vyprázdnit mezipaměť Magenta",module,Magento_Backend
 "The cache storage may contain additional data. Are you sure that you want to flush it?","Úložiště mezipaměti může obsahovat další data. Skutečně ji chcete vymazat?",module,Magento_Backend
@@ -547,7 +547,7 @@ Stores,Obchody,module,Magento_Backend
 Home,Úvod,module,Magento_Backend
 Reset,Obnovit,module,Magento_Backend
 "Are you sure you want to do this?","Skutečně chcete provést tuto akci?",module,Magento_Backend
-label,label,module,Magento_Backend
+label,štítek,module,Magento_Backend
 "Add New Image","Přidat nový obrázek",module,Magento_Backend
 "Export block for grid %1 is not defined","Není určen blok exportu mřížky %1",module,Magento_Backend
 "Reset Filter","Obnovit filtr",module,Magento_Backend
@@ -565,13 +565,13 @@ To,Do,module,Magento_Backend
 "Invalid export type supplied for grid export block","Neplatný typ exportu pro exportovaný blok mřížky",module,Magento_Backend
 Export,Export,module,Magento_Backend
 "Please correct the column format and try again.","Opravte formát sloupce prosím a zkuste to znovu.",module,Magento_Backend
-"An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again.",module,Magento_Backend
+"An item needs to be selected. Select and try again.","Položka musí být vybrána. Vyberte a zkuste znovu.",module,Magento_Backend
 Submit,Odeslat,module,Magento_Backend
 "Unknown block type","Neznámý typ bloku",module,Magento_Backend
 "Please correct the tab configuration and try again. Tab Id should be not empty","Opravte prosím nastavení tabulky a zkuste to znovu. ID by nemělo být prázdné",module,Magento_Backend
 "Please correct the tab configuration and try again.","Opravte nastavení tabulky prosím a zkuste to znovu.",module,Magento_Backend
 "You have logged out.","Jste odhlášen.",module,Magento_Backend
-"These cache type(s) don't exist: %1","These cache type(s) don't exist: %1",module,Magento_Backend
+"These cache type(s) don't exist: %1","Zvolené mezipaměti neexistují: %1",module,Magento_Backend
 "The image cache was cleaned.","Mezipaměť obrázků byla obnovena.",module,Magento_Backend
 "An error occurred while clearing the image cache.","Při obnovení mezipaměti obrázků nastala chyba.",module,Magento_Backend
 "The JavaScript/CSS cache has been cleaned.","Mezipaměť JS/CSS souborů byla obnovena.",module,Magento_Backend
@@ -640,15 +640,15 @@ New,Nový,module,Magento_Backend
 YTD,"Od počátku roku",module,Magento_Backend
 2YTD,"2 roky zpět",module,Magento_Backend
 "Authentication storage is incorrect.","Úložiště ověření je neplatné.",module,Magento_Backend
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Backend
-"An authentication error occurred. Verify and try again.","An authentication error occurred. Verify and try again.",module,Magento_Backend
-"The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.","The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.",module,Magento_Backend
-"The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.","The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.",module,Magento_Backend
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Přihlášení do účtu bylo nesprávné nebo je váš účet dočasně nedostupný. Čekejte prosím a zkuste to později.",module,Magento_Backend
+"An authentication error occurred. Verify and try again.","Došlo k chybě ověření. Zkuste to znovu.",module,Magento_Backend
+"The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.","Životnost relace Admin je neplatná. Nastavte životnost na 31536000 sekund (jeden rok) nebo kratší a zkuste to znovu.",module,Magento_Backend
+"The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.","Životnost relace Admin je neplatná. Nastavte životnost na 60 sekund nebo délší a zkuste to znovu.",module,Magento_Backend
 Order,Objednávka,module,Magento_Backend
 "Order #%1","Objednávka č.%1",module,Magento_Backend
-"Save &amp; Continue","Save &amp; Continue",module,Magento_Backend
-"Save &amp; Close","Save &amp; Close",module,Magento_Backend
-"Save &amp; New","Save &amp; New",module,Magento_Backend
+"Save &amp; Continue","Uložit a pokračovat",module,Magento_Backend
+"Save &amp; Close","Uložit a zavřít",module,Magento_Backend
+"Save &amp; New","Uložit a vytvořit nový",module,Magento_Backend
 Edit,Upravit,module,Magento_Backend
 "Sorry, you need permissions to view this content.","Pro zobrazení obsahu potřebujete vyšší oprávnění.",module,Magento_Backend
 "Next steps","Další kroky",module,Magento_Backend
@@ -776,10 +776,10 @@ Advanced,"Pokročilá nastavení",module,Magento_Backend
 Developer,Vývojář,module,Magento_Backend
 Debug,"Ladící režim",module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Vodítka cesty šablony obchodu zapnuty",module,Magento_Backend
-"Enable Hints for Storefront with URL Parameter","Enable Hints for Storefront with URL Parameter",module,Magento_Backend
-"Parameter Value","Parameter Value",module,Magento_Backend
+"Enable Hints for Storefront with URL Parameter","Povolit náhled na Storefront s URL parametrem",module,Magento_Backend
+"Parameter Value","Hodnota parametru",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Vodítka cesty šablony správy zapnuty",module,Magento_Backend
-"Add Block Class Type to Hints","Add Block Class Type to Hints",module,Magento_Backend
+"Add Block Class Type to Hints","Přidání typu třídy bloku k tipům",module,Magento_Backend
 "Template Settings","Nastavení šablony",module,Magento_Backend
 "Allow Symlinks","Povolit symbolické odkazy",module,Magento_Backend
 "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Varování! symbolické odkazy neboli SYMLINKS představují bezpečnostní riziko, proto není doporučeno je používat v ostrém provozu.",module,Magento_Backend
@@ -798,7 +798,7 @@ Debug,"Ladící režim",module,Magento_Backend
 "Minify CSS Files","Komprimovat CSS soubory",module,Magento_Backend
 "Image Processing Settings","Nastavení zpracování obrázků",module,Magento_Backend
 "Image Adapter","Adaptér obrázků",module,Magento_Backend
-"When the adapter was changed, please flush Catalog Images Cache.","When the adapter was changed, please flush Catalog Images Cache.",module,Magento_Backend
+"When the adapter was changed, please flush Catalog Images Cache.","Pokud byl změněn adaptér, vyprázdněte mezipaměť obrázků.",module,Magento_Backend
 "Static Files Settings","Nastavení statických souborů",module,Magento_Backend
 "Sign Static Files","Registrovat statické soubory",module,Magento_Backend
 "Country Options","Nastavení zemí",module,Magento_Backend
@@ -831,12 +831,12 @@ Host,Hostitel,module,Magento_Backend
 "Port (25)","Port (25)",module,Magento_Backend
 "Set Return-Path","Nastavit e-mail pro odpověď",module,Magento_Backend
 "Return-Path Email","E-mail pro odpověď",module,Magento_Backend
-"Images Upload Configuration","Images Upload Configuration",module,Magento_Backend
-"Enable Frontend Resize","Enable Frontend Resize",module,Magento_Backend
-"Maximum Width","Maximum Width",module,Magento_Backend
-"Maximum allowed width for uploaded image.","Maximum allowed width for uploaded image.",module,Magento_Backend
-"Maximum Height","Maximum Height",module,Magento_Backend
-"Maximum allowed height for uploaded image.","Maximum allowed height for uploaded image.",module,Magento_Backend
+"Images Upload Configuration","Nastavení nahrávání obrázků",module,Magento_Backend
+"Enable Frontend Resize","Povolit změnu velikosti",module,Magento_Backend
+"Maximum Width","Maximální šířka",module,Magento_Backend
+"Maximum allowed width for uploaded image.","Maximální povolená šířka pro nahrání obrázku.",module,Magento_Backend
+"Maximum Height","Maximální výška",module,Magento_Backend
+"Maximum allowed height for uploaded image.","Maximální povolená výška pro nahrání obrázku.",module,Magento_Backend
 Admin,Admin,module,Magento_Backend
 "Admin User Emails","Nastavení e-mailů správce",module,Magento_Backend
 "Forgot Password Email Template","Šablona e-mailu obnovy hesla",module,Magento_Backend
@@ -861,9 +861,9 @@ Security,Zabezpečení,module,Magento_Backend
 Web,Web,module,Magento_Backend
 "Url Options","Nastavení URL",module,Magento_Backend
 "Add Store Code to Urls","Přidat k URL kód obchodu",module,Magento_Backend
-"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).",module,Magento_Backend
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong style=""color:red"">Upozornění!</strong> Použití kódu obchodu v URL může způsobit nefunkčnost služeb třetích stran (např. PayPal aj.).",module,Magento_Backend
 "Auto-redirect to Base URL","Automatické přesměrování na základní URL",module,Magento_Backend
-"I.e. redirect from http://example.com/store/ to http://www.example.com/store/","I.e. redirect from http://example.com/store/ to http://www.example.com/store/",module,Magento_Backend
+"I.e. redirect from http://example.com/store/ to http://www.example.com/store/","Přesměrování z http://example.com/store/ na http://www.example.com/store/",module,Magento_Backend
 "Search Engine Optimization","Optimalizace pro vyhledávače",module,Magento_Backend
 "Use Web Server Rewrites","Používat přepis URL serveru",module,Magento_Backend
 "Base URLs","Základní URL",module,Magento_Backend
@@ -871,7 +871,7 @@ Web,Web,module,Magento_Backend
 "Base URL","Základní URL",module,Magento_Backend
 "Specify URL or {{base_url}} placeholder.","Zadejte URL nebo použijte {{base_url}} proměnnou.",module,Magento_Backend
 "Base Link URL","Základní URL odkazů",module,Magento_Backend
-"May start with {{unsecure_base_url}} placeholder.","May start with {{unsecure_base_url}} placeholder.",module,Magento_Backend
+"May start with {{unsecure_base_url}} placeholder.","Může začít {{unsecure_base_url}} zástupný symbol.",module,Magento_Backend
 "Base URL for Static View Files","Základní URL statických souborů",module,Magento_Backend
 "May be empty or start with {{unsecure_base_url}} placeholder.","Může být prázdné nebo začínat {{unsecure_base_url}} proměnnou.",module,Magento_Backend
 "Base URL for User Media Files","Základní URL médií",module,Magento_Backend
@@ -880,18 +880,18 @@ Web,Web,module,Magento_Backend
 "Secure Base URL","Základní zabezpečená URL",module,Magento_Backend
 "Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Zadejte URL nebo  {{base_url}} nebo {{unsecure_base_url}} proměnnou.",module,Magento_Backend
 "Secure Base Link URL","Zabezpečená URL odkazů",module,Magento_Backend
-"May start with {{secure_base_url}} or {{unsecure_base_url}} placeholder.","May start with {{secure_base_url}} or {{unsecure_base_url}} placeholder.",module,Magento_Backend
+"May start with {{secure_base_url}} or {{unsecure_base_url}} placeholder.","Může být prázdné nebo začínat {{secure_base_url}} nebo {{unsecure_base_url}} proměnnou.",module,Magento_Backend
 "Secure Base URL for Static View Files","Zabezpečená URL statických souborů",module,Magento_Backend
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Může být prázdné nebo začínat {{secure_base_url}} nebo {{unsecure_base_url}}  proměnnou.",module,Magento_Backend
 "Secure Base URL for User Media Files","Zabezpečená URL médií",module,Magento_Backend
 "Use Secure URLs on Storefront","Používat zabezpečené URL v obchodě",module,Magento_Backend
-"Enter https protocol to use Secure URLs on Storefront.","Enter https protocol to use Secure URLs on Storefront.",module,Magento_Backend
+"Enter https protocol to use Secure URLs on Storefront.","Zadejte protokol https pro použití zabezpečené URL na Storefront.",module,Magento_Backend
 "Use Secure URLs in Admin","Používat zabezpečené URL ve správě",module,Magento_Backend
-"Enter https protocol to use Secure URLs in Admin.","Enter https protocol to use Secure URLs in Admin.",module,Magento_Backend
+"Enter https protocol to use Secure URLs in Admin.","Zadejte protokol https pro použití zabezpečené URL v Admin.",module,Magento_Backend
 "Enable HTTP Strict Transport Security (HSTS)","Zapnout HTTP Strict Transport Security (HSTS)",module,Magento_Backend
-"See <a href=""https://www.owasp.org/index.php/HTTP_Strict_Transport_Security"" target=""_blank"">HTTP Strict Transport Security</a> page for details.","See <a href=""https://www.owasp.org/index.php/HTTP_Strict_Transport_Security"" target=""_blank"">HTTP Strict Transport Security</a> page for details.",module,Magento_Backend
+"See <a href=""https://www.owasp.org/index.php/HTTP_Strict_Transport_Security"" target=""_blank"">HTTP Strict Transport Security</a> page for details.","Podrobnosti naleznete na stránce <a href=""https://www.owasp.org/index.php/HTTP_Strict_Transport_Security"" target=""_blank""> HTTP Strict Transport Security </a>.",module,Magento_Backend
 "Upgrade Insecure Requests","Upravit nezabezpečené dotazy",module,Magento_Backend
-"See <a href=""http://www.w3.org/TR/upgrade-insecure-requests/"" target=""_blank"">Upgrade Insecure Requests</a> page for details.","See <a href=""http://www.w3.org/TR/upgrade-insecure-requests/"" target=""_blank"">Upgrade Insecure Requests</a> page for details.",module,Magento_Backend
+"See <a href=""http://www.w3.org/TR/upgrade-insecure-requests/"" target=""_blank"">Upgrade Insecure Requests</a> page for details.","Podrobnosti naleznete na stránce <a href=""http://www.w3.org/TR/upgrade-insecure-requests/"" target=""_blank""> Upgrade Nevyžádaného požadavku </a>.",module,Magento_Backend
 "Offloader header","Offloader hlavička",module,Magento_Backend
 "Default Pages","Výchozí stránky",module,Magento_Backend
 "Default Web URL","Výchozí URL webu",module,Magento_Backend
@@ -964,7 +964,7 @@ Database,Databáze,module,Magento_Backup
 "The backup file handler was unspecified.","Není určen Handler souboru zálohy.",module,Magento_Backup
 "Something went wrong while writing to the backup file ""%1"".","Při zapisování do souboru zálohy ""%1"" nastala chyba.",module,Magento_Backup
 "We can't save the Cron expression.","Cron výraz nelze uložit.",module,Magento_Backup
-"Backup functionality is disabled","Backup functionality is disabled",module,Magento_Backup
+"Backup functionality is disabled","Zálohování je zakázáno",module,Magento_Backup
 "You will lose any data created since the backup was made, including admin users, customers and orders.","Všechny údaje, které byly vytvořeny od posledního zálohování budou ztracena, včetně správců, zákazníků a objednávek.",module,Magento_Backup
 "Are you sure you want to continue?","Chcete skutečně pokračovat?",module,Magento_Backup
 "This may take a few moments.","Zálohování je dlouhotrvající proces.",module,Magento_Backup
@@ -988,10 +988,10 @@ FTP,FTP,module,Magento_Backup
 "Magento root directory","Kořenový adresář Magenta",module,Magento_Backup
 "Create Backup","Vytvořit zálohu",module,Magento_Backup
 Rollback,Obnova,module,Magento_Backup
-"Backup Settings","Backup Settings",module,Magento_Backup
-"Enable Backup","Enable Backup",module,Magento_Backup
+"Backup Settings","Nastavení zálohování",module,Magento_Backup
+"Enable Backup","Povolit zálohování",module,Magento_Backup
 "Enable Scheduled Backup","Zapnout pravidelné zálohování",module,Magento_Backup
-"Scheduled Backup Type","Scheduled Backup Type",module,Magento_Backup
+"Scheduled Backup Type","Typ plánu zálohování",module,Magento_Backup
 "Start Time","Čas zahájení",module,Magento_Backup
 Frequency,Četnost,module,Magento_Backup
 "Maintenance Mode","Režim údržby",module,Magento_Backup
@@ -1003,20 +1003,20 @@ Size(bytes),Bajty,module,Magento_Backup
 Type,Typ,module,Magento_Backup
 Download,Stažení,module,Magento_Backup
 Action,Akce,module,Magento_Backup
-"Dynamic Blocks","Dynamic Blocks",module,Magento_Banner
-"Add Dynamic Block","Add Dynamic Block",module,Magento_Banner
-"Save Dynamic Block","Save Dynamic Block",module,Magento_Banner
-"Delete Dynamic Block","Delete Dynamic Block",module,Magento_Banner
+"Dynamic Blocks","Dynamický blok",module,Magento_Banner
+"Add Dynamic Block","Nový dynamický blok",module,Magento_Banner
+"Save Dynamic Block","Uložit dynamický blok",module,Magento_Banner
+"Delete Dynamic Block","Smazat dynamický blok",module,Magento_Banner
 "Save and Continue Edit",Použít,module,Magento_Banner
-"New Dynamic Block","New Dynamic Block",module,Magento_Banner
+"New Dynamic Block","Nový dynamický blok",module,Magento_Banner
 Delete,Smazat,module,Magento_Banner
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Banner
-Reset,Reset,module,Magento_Banner
-Save,Save,module,Magento_Banner
+"Are you sure you want to do this?","Opravdu to chcete udělat?",module,Magento_Banner
+Reset,Obnovit,module,Magento_Banner
+Save,Uložit,module,Magento_Banner
 Content,Obsah,module,Magento_Banner
 "Default Content","Výchozí obsah",module,Magento_Banner
 "No Default Content","Bez výchozího obsahu",module,Magento_Banner
-"Dynamic Block Default Content for All Store Views","Dynamic Block Default Content for All Store Views",module,Magento_Banner
+"Dynamic Block Default Content for All Store Views","Výchozí obsah banneru pro všechna zobrazení obchodu",module,Magento_Banner
 "Store View Specific Content","Specifický obsah zobrazení obchodu",module,Magento_Banner
 "Use Default","Použít výchozí",module,Magento_Banner
 "Related Promotions","Související pravidla",module,Magento_Banner
@@ -1025,36 +1025,36 @@ Rule,Pravidlo,module,Magento_Banner
 "Start Date",Začátek,module,Magento_Banner
 "End Date",Konec,module,Magento_Banner
 Status,Stav,module,Magento_Banner
-"Dynamic Block Properties","Dynamic Block Properties",module,Magento_Banner
-"Dynamic Block Name","Dynamic Block Name",module,Magento_Banner
+"Dynamic Block Properties","Dynamické blokové vady",module,Magento_Banner
+"Dynamic Block Name","Dynamický blok",module,Magento_Banner
 Active,Aktivní,module,Magento_Banner
 Inactive,Neaktivní,module,Magento_Banner
 "Applies To","Platí pro",module,Magento_Banner
-"Any Dynamic Block Type","Any Dynamic Block Type",module,Magento_Banner
-"Specified Dynamic Block Types","Specified Dynamic Block Types",module,Magento_Banner
+"Any Dynamic Block Type","Jakýkoliv typ Dynamického bloku",module,Magento_Banner
+"Specified Dynamic Block Types","Specializované Dynamické bloky",module,Magento_Banner
 "Specify Types","Zvolte typy",module,Magento_Banner
-"Dynamic Block Information","Dynamic Block Information",module,Magento_Banner
-"Dynamic Block","Dynamic Block",module,Magento_Banner
-"Dynamic Block Type","Dynamic Block Type",module,Magento_Banner
+"Dynamic Block Information","Informace Dynamických bloků",module,Magento_Banner
+"Dynamic Block","Dynamický blok",module,Magento_Banner
+"Dynamic Block Type","Typ dynamického bloku",module,Magento_Banner
 Visibility,Viditelnost,module,Magento_Banner
-"Are you sure you want to delete these dynamic blocks?","Are you sure you want to delete these dynamic blocks?",module,Magento_Banner
-"Related Dynamic Blocks","Related Dynamic Blocks",module,Magento_Banner
+"Are you sure you want to delete these dynamic blocks?","Skutečně chcete tyto dynamické bloky odstranit?",module,Magento_Banner
+"Related Dynamic Blocks","Související dynamické bloky",module,Magento_Banner
 Position,Pozice,module,Magento_Banner
 "This rule no longer exists.","Toto pravidlo již neexistuje.",module,Magento_Banner
-"You deleted the dynamic block.","You deleted the dynamic block.",module,Magento_Banner
-"Something went wrong while deleting dynamic block data. Please review the action log and try again.","Something went wrong while deleting dynamic block data. Please review the action log and try again.",module,Magento_Banner
-"We cannot find a dynamic block to delete.","We cannot find a dynamic block to delete.",module,Magento_Banner
-"This dynamic block no longer exists.","This dynamic block no longer exists.",module,Magento_Banner
-"Edit Dynamic Block","Edit Dynamic Block",module,Magento_Banner
-"Please select a dynamic block(s).","Please select a dynamic block(s).",module,Magento_Banner
+"You deleted the dynamic block.","Blok byl odstraněn.",module,Magento_Banner
+"Something went wrong while deleting dynamic block data. Please review the action log and try again.","Při odstraňování údajů banneru nastala chyba. Zkontrolujte protokol a zkuste to znovu.",module,Magento_Banner
+"We cannot find a dynamic block to delete.","Nelze najít blok, který chcete odstranit.",module,Magento_Banner
+"This dynamic block no longer exists.","Tento blok již neexistuje.",module,Magento_Banner
+"Edit Dynamic Block","Upravit dynamický blok",module,Magento_Banner
+"Please select a dynamic block(s).","Vyberte dynamický blok.",module,Magento_Banner
 "You deleted %1 record(s).","Bylo odstraněno %1 záznamů.",module,Magento_Banner
-"Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.","Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.",module,Magento_Banner
-"This dynamic block does not exist.","This dynamic block does not exist.",module,Magento_Banner
-"You saved the dynamic block.","You saved the dynamic block.",module,Magento_Banner
-"We cannot save the dynamic block.","We cannot save the dynamic block.",module,Magento_Banner
+"Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.","Při odstraňování údajů banneru nastala chyba. Zkontrolujte protokol a zkuste to znovu.",module,Magento_Banner
+"This dynamic block does not exist.","Tento blok již neexistuje.",module,Magento_Banner
+"You saved the dynamic block.","Blok byl uložen.",module,Magento_Banner
+"We cannot save the dynamic block.","Nemůžeme uložit dynamický blok.",module,Magento_Banner
 "Please enter a name.","Zadejte název.",module,Magento_Banner
 "Please specify default content for at least one store view.","Zvolte výchozí obsah pro alespoň jedno zobrazení obchodu.",module,Magento_Banner
-"Make sure that dynamic blocks rotator does not reference the dynamic block itself.","Make sure that dynamic blocks rotator does not reference the dynamic block itself.",module,Magento_Banner
+"Make sure that dynamic blocks rotator does not reference the dynamic block itself.","Ujistěte se, že statický blok nedokazuje sám na sebe.",module,Magento_Banner
 "-- None --","– Žádný –",module,Magento_Banner
 Error,Chyba,module,Magento_Banner
 "Content Area","Oblast obsahu",module,Magento_Banner
@@ -1062,22 +1062,22 @@ Footer,Zápatí,module,Magento_Banner
 Header,Záhlaví,module,Magento_Banner
 "Left Column","Levý sloupec",module,Magento_Banner
 "Right Column","Pravý sloupec",module,Magento_Banner
-"Manage Dynamic Blocks","Manage Dynamic Blocks",module,Magento_Banner
-"Dynamic Blocks Rotator","Dynamic Blocks Rotator",module,Magento_Banner
-"Displays Specified or Promotion Dynamic Blocks","Displays Specified or Promotion Dynamic Blocks",module,Magento_Banner
-"Dynamic Blocks to Display","Dynamic Blocks to Display",module,Magento_Banner
-"Specified Dynamic Blocks","Specified Dynamic Blocks",module,Magento_Banner
-"Cart Price Rule Related","Cart Price Rule Related",module,Magento_Banner
-"Catalog Price Rule Related","Catalog Price Rule Related",module,Magento_Banner
-"Restrict by Dynamic Block Types","Restrict by Dynamic Block Types",module,Magento_Banner
+"Manage Dynamic Blocks","Upravovat dynamické bloky",module,Magento_Banner
+"Dynamic Blocks Rotator","Rotátor dynamických bloků",module,Magento_Banner
+"Displays Specified or Promotion Dynamic Blocks","Zobrazí vybrané nebo propagační bannery",module,Magento_Banner
+"Dynamic Blocks to Display","Dynamický blok k zobrazení",module,Magento_Banner
+"Specified Dynamic Blocks","Specifikované dynamické bloky",module,Magento_Banner
+"Cart Price Rule Related","Cenová pravidla košíku",module,Magento_Banner
+"Catalog Price Rule Related","Katalog cenových pravidel",module,Magento_Banner
+"Restrict by Dynamic Block Types","Omezit typy dynamických bloků",module,Magento_Banner
 "Rotation Mode","Režim rotace",module,Magento_Banner
 "Display all instead of rotating","Zobrazit všechny místo rotací",module,Magento_Banner
 "One at the time, Random","Jednou za čas, náhodně",module,Magento_Banner
 "One at the time, Series","Jednou za čas, po sobě",module,Magento_Banner
 "One at the time, Shuffle","Jednou za čas, promíchat",module,Magento_Banner
-"Specify Dynamic Blocks","Specify Dynamic Blocks",module,Magento_Banner
-"Dynamic Block Template","Dynamic Block Template",module,Magento_Banner
-"Dynamic Block Inline Template","Dynamic Block Inline Template",module,Magento_Banner
+"Specify Dynamic Blocks","Určit dynamické bloky",module,Magento_Banner
+"Dynamic Block Template","Šablona dynamického bloku",module,Magento_Banner
+"Dynamic Block Inline Template","Dynamická bloková inline šablona",module,Magento_Banner
 Name,Name,module,Magento_Banner
 "Status Label","Status Label",module,Magento_Banner
 "General Information","General Information",module,Magento_Banner
@@ -1101,7 +1101,7 @@ Country,Země,module,Magento_Braintree
 "Checkout failed to initialize. Verify and try again.","Checkout failed to initialize. Verify and try again.",module,Magento_Braintree
 "No authorization transaction to proceed capture.","No authorization transaction to proceed capture.",module,Magento_Braintree
 "The Payment Token is not available to perform the request.","The Payment Token is not available to perform the request.",module,Magento_Braintree
-"Transaction is cancelled offline.","Transaction is cancelled offline.",module,Magento_Braintree
+"Transaction is cancelled offline.","Transakce je zrušena offline.",module,Magento_Braintree
 "Braintree error response.","Braintree error response.",module,Magento_Braintree
 "Payment method nonce can't be retrieved.","Způsob platby nelze provést.",module,Magento_Braintree
 "Wrong transaction status","Neplatný stav transakce",module,Magento_Braintree
@@ -1255,7 +1255,7 @@ URL,URL,module,Magento_Braintree
 "Customer has already reached the maximum of 50 addresses.","Customer has already reached the maximum of 50 addresses.",module,Magento_Braintree
 "Address is invalid. Please contact the store administrator.","Address is invalid. Please contact the store administrator.",module,Magento_Braintree
 "Error communicating with PayPal.","Error communicating with PayPal.",module,Magento_Braintree
-"PayPal authentication expired.","PayPal authentication expired.",module,Magento_Braintree
+"PayPal authentication expired.","PayPal autorizace vypršela.",module,Magento_Braintree
 "Error executing PayPal order.","Error executing PayPal order.",module,Magento_Braintree
 "Error executing PayPal billing agreement.","Error executing PayPal billing agreement.",module,Magento_Braintree
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Použít filtry k získání výsledků. Zobrazí se pouze prvních 100 záznamů, úplnou verzi přehledu lze stáhnout ve formátu CSV.",module,Magento_Braintree
