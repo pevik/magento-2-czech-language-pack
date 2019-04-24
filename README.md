@@ -117,11 +117,13 @@ To download and install Czech pack manually, you have to access to your server v
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/cs_cz/cs_CZ.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/cs_cz/`
 
-See this screenshot
+See this screenshot:
 
 ![Czech pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **cs_cz**
 
 #### Step 2: Flush cache
 
