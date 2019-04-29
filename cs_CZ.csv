@@ -2842,7 +2842,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "The Product with the ""%1"" SKU doesn't exist.","The Product with the ""%1"" SKU doesn't exist.",module,Magento_CatalogInventory
 "The requested qty is not available","The requested qty is not available",module,Magento_CatalogInventory
 "Quantity increments can't use decimals. Enter a new increment and try again.","Quantity increments can't use decimals. Enter a new increment and try again.",module,Magento_CatalogInventory
-"""model"" value should be specified","""model"" value should be specified",module,Magento_CatalogInventoryGraphQl
+"""model"" value should be specified","Hodnota modelu by měla být specifikována",module,Magento_CatalogInventoryGraphQl
 "New Permission","Nové oprávnění",module,Magento_CatalogPermissions
 "You already have a permission with this scope.","V tomto rozsahu již oprávnění máte.",module,Magento_CatalogPermissions
 "(Allow)","(Povolit)",module,Magento_CatalogPermissions
