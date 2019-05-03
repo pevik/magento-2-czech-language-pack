@@ -4,6 +4,7 @@ From Magento 2 Translation Project, **Magento 2 Czech Language Pack** is guided 
 
 Read more [Magento 2 Czech Language Pack](https://www.mageplaza.com/magento-2-czech-language-pack.html)
 
+![Mageplaza Czech language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
