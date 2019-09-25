@@ -16223,73 +16223,73 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transakce byla zamítnuta",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","Souhrn",theme,frontend/Magento/blank
-"Account Dashboard","Přehled",theme,frontend/Magento/blank
-"Account Information","Údaje účtu",theme,frontend/Magento/blank
-"Address Book","Adresář",theme,frontend/Magento/blank
-"Menu","Menu",theme,frontend/Magento/blank
-"Account","Účet",theme,frontend/Magento/blank
-"Settings","Nastavení",theme,frontend/Magento/blank
-"Now Shopping by","Aktivní filtr pro",theme,frontend/Magento/luma
-"Previous","Předchozí",theme,frontend/Magento/luma
-"Remove","Odstranit",theme,frontend/Magento/luma
-"Remove This Item","Odstranit tuto položku",theme,frontend/Magento/luma
-"Shop By","Navigace",theme,frontend/Magento/luma
-"Clear All","Odebrat vše",theme,frontend/Magento/luma
-"Shopping Options","Filtr parametrů",theme,frontend/Magento/luma
-"Welcome to %store_name","Vítejte v %store_name",theme,frontend/Magento/luma
-"%name,","%name,",theme,frontend/Magento/luma
-"Welcome to %store_name.","Vítejte v %store_name.",theme,frontend/Magento/luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Tyto přihlašovací údaje použijte k přihlášení na naše stránky v průběhu dokončení objednávky nebo na <a href=""%customer_url"">Můj účet</a> stránce:",theme,frontend/Magento/luma
-"Email:","E-mail:",theme,frontend/Magento/luma
-"Password:","Heslo:",theme,frontend/Magento/luma
-"Password you set when creating account","Heslo, které jste zadali při registraci",theme,frontend/Magento/luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zapoměli jste své heslo? Kliknutím <a href=""%reset_url"">zde</a> jej obnovíte.",theme,frontend/Magento/luma
-"When you sign in to your account, you will be able to:","Po přihlášení k vašemu účtu můžete provádět následující:",theme,frontend/Magento/luma
-"Quick Checkout","Rychlá pokladna",theme,frontend/Magento/luma
-"Proceed through checkout faster","Rychlejší proces dokončení objednávky",theme,frontend/Magento/luma
-"Order Status","Stav objednávky",theme,frontend/Magento/luma
-"Check the status of orders","Zkontrolovat stav objednávek",theme,frontend/Magento/luma
-"Manage Addresses","Správa adres",theme,frontend/Magento/luma
-"Store alternative addresses","Můžete si uložit více adres",theme,frontend/Magento/luma
-"For shipping to multiple family members and friends","Pro zasílání členům rodiny či přátelům",theme,frontend/Magento/luma
-"Order History","Historie objednávky",theme,frontend/Magento/luma
-"View past orders","Zobrazit předchozí objednávky",theme,frontend/Magento/luma
-"Footer","Zápatí",theme,frontend/Magento/luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend/Magento/luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend/Magento/luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Provozní doba:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
-"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
-"Thank you for your order from %store_name.","Děkujeme Vám za objednávku z %store_name.",theme,frontend/Magento/luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Stav objednávky můžete zkontrolovat <a href=""%account_url"">po přihlášení do svého účtu</a>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Pokud máte k vaší objednávce jakýkoli dotaz, můžete nám napsat na <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend/Magento/luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Dobropis č. %creditmemo_id k objednávce č. %order_id",theme,frontend/Magento/luma
-"Billing Info","Fakturační údaje",theme,frontend/Magento/luma
-"Shipping Info","Doručovací údaje",theme,frontend/Magento/luma
-"Payment Method","Způsob platby",theme,frontend/Magento/luma
-"Shipping Method","Způsob dopravy",theme,frontend/Magento/luma
-"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Stav vaší objednávky č. %increment_id byl změněn na <strong>%order_status</strong>.",theme,frontend/Magento/luma
-"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend/Magento/luma
-"Your Invoice #%invoice_id for Order #%order_id","Faktura č. %invoice_id k objednávce č. %order_id",theme,frontend/Magento/luma
-"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend/Magento/luma
-"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend/Magento/luma
-"%customer_name,","%customer_name,",theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.","Jakmile bude vaše zásilka odeslána, zašleme Vám sledovací číslo balíku.",theme,frontend/Magento/luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Vaše objednávka <span class=""no-link"">č. %increment_id</span>",theme,frontend/Magento/luma
-"Placed on <span class=""no-link"">%created_at</span>","Pořízená v <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
-"Update to your %store_name order","Update to your %store_name order",theme,frontend/Magento/luma
-"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend/Magento/luma
-"Your shipping confirmation is below. Thank you again for your business.","Potvrzení odeslání zásilky je níže. Ještě jednou vám za nákup děkujeme.",theme,frontend/Magento/luma
-"Your Shipment #%shipment_id for Order #%order_id","Zásilka č. #%shipment_id k objednávce č. %order_id",theme,frontend/Magento/luma
-"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
-"Account Dashboard","Přehled",theme,frontend/Magento/luma
-"Address Book","Adresář",theme,frontend/Magento/luma
-"Account Information","Údaje účtu",theme,frontend/Magento/luma
-"About Us","O nás",theme,frontend/Magento/luma
-"Customer Service","Zákaznická podpora",theme,frontend/Magento/luma
-"My Account","Můj účet",theme,frontend/Magento/luma
+"Summary","Souhrn",theme,frontend\Magento\blank
+"Account Dashboard","Přehled",theme,frontend\Magento\blank
+"Account Information","Údaje účtu",theme,frontend\Magento\blank
+"Address Book","Adresář",theme,frontend\Magento\blank
+"Menu","Menu",theme,frontend\Magento\blank
+"Account","Účet",theme,frontend\Magento\blank
+"Settings","Nastavení",theme,frontend\Magento\blank
+"Now Shopping by","Aktivní filtr pro",theme,frontend\Magento\luma
+"Previous","Předchozí",theme,frontend\Magento\luma
+"Remove","Odstranit",theme,frontend\Magento\luma
+"Remove This Item","Odstranit tuto položku",theme,frontend\Magento\luma
+"Shop By","Navigace",theme,frontend\Magento\luma
+"Clear All","Odebrat vše",theme,frontend\Magento\luma
+"Shopping Options","Filtr parametrů",theme,frontend\Magento\luma
+"Welcome to %store_name","Vítejte v %store_name",theme,frontend\Magento\luma
+"%name,","%name,",theme,frontend\Magento\luma
+"Welcome to %store_name.","Vítejte v %store_name.",theme,frontend\Magento\luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Tyto přihlašovací údaje použijte k přihlášení na naše stránky v průběhu dokončení objednávky nebo na <a href=""%customer_url"">Můj účet</a> stránce:",theme,frontend\Magento\luma
+"Email:","E-mail:",theme,frontend\Magento\luma
+"Password:","Heslo:",theme,frontend\Magento\luma
+"Password you set when creating account","Heslo, které jste zadali při registraci",theme,frontend\Magento\luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zapoměli jste své heslo? Kliknutím <a href=""%reset_url"">zde</a> jej obnovíte.",theme,frontend\Magento\luma
+"When you sign in to your account, you will be able to:","Po přihlášení k vašemu účtu můžete provádět následující:",theme,frontend\Magento\luma
+"Quick Checkout","Rychlá pokladna",theme,frontend\Magento\luma
+"Proceed through checkout faster","Rychlejší proces dokončení objednávky",theme,frontend\Magento\luma
+"Order Status","Stav objednávky",theme,frontend\Magento\luma
+"Check the status of orders","Zkontrolovat stav objednávek",theme,frontend\Magento\luma
+"Manage Addresses","Správa adres",theme,frontend\Magento\luma
+"Store alternative addresses","Můžete si uložit více adres",theme,frontend\Magento\luma
+"For shipping to multiple family members and friends","Pro zasílání členům rodiny či přátelům",theme,frontend\Magento\luma
+"Order History","Historie objednávky",theme,frontend\Magento\luma
+"View past orders","Zobrazit předchozí objednávky",theme,frontend\Magento\luma
+"Footer","Zápatí",theme,frontend\Magento\luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend\Magento\luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend\Magento\luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend\Magento\luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Provozní doba:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
+"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend\Magento\luma
+"Thank you for your order from %store_name.","Děkujeme Vám za objednávku z %store_name.",theme,frontend\Magento\luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Stav objednávky můžete zkontrolovat <a href=""%account_url"">po přihlášení do svého účtu</a>.",theme,frontend\Magento\luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Pokud máte k vaší objednávce jakýkoli dotaz, můžete nám napsat na <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend\Magento\luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Dobropis č. %creditmemo_id k objednávce č. %order_id",theme,frontend\Magento\luma
+"Billing Info","Fakturační údaje",theme,frontend\Magento\luma
+"Shipping Info","Doručovací údaje",theme,frontend\Magento\luma
+"Payment Method","Způsob platby",theme,frontend\Magento\luma
+"Shipping Method","Způsob dopravy",theme,frontend\Magento\luma
+"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend\Magento\luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Stav vaší objednávky č. %increment_id byl změněn na <strong>%order_status</strong>.",theme,frontend\Magento\luma
+"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend\Magento\luma
+"Your Invoice #%invoice_id for Order #%order_id","Faktura č. %invoice_id k objednávce č. %order_id",theme,frontend\Magento\luma
+"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend\Magento\luma
+"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend\Magento\luma
+"%customer_name,","%customer_name,",theme,frontend\Magento\luma
+"Once your package ships we will send you a tracking number.","Jakmile bude vaše zásilka odeslána, zašleme Vám sledovací číslo balíku.",theme,frontend\Magento\luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Vaše objednávka <span class=""no-link"">č. %increment_id</span>",theme,frontend\Magento\luma
+"Placed on <span class=""no-link"">%created_at</span>","Pořízená v <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
+"Update to your %store_name order","Update to your %store_name order",theme,frontend\Magento\luma
+"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend\Magento\luma
+"Your shipping confirmation is below. Thank you again for your business.","Potvrzení odeslání zásilky je níže. Ještě jednou vám za nákup děkujeme.",theme,frontend\Magento\luma
+"Your Shipment #%shipment_id for Order #%order_id","Zásilka č. #%shipment_id k objednávce č. %order_id",theme,frontend\Magento\luma
+"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend\Magento\luma
+"Account Dashboard","Přehled",theme,frontend\Magento\luma
+"Address Book","Adresář",theme,frontend\Magento\luma
+"Account Information","Údaje účtu",theme,frontend\Magento\luma
+"About Us","O nás",theme,frontend\Magento\luma
+"Customer Service","Zákaznická podpora",theme,frontend\Magento\luma
+"My Account","Můj účet",theme,frontend\Magento\luma
 "Backup options","Možnosti zálohování",lib,web
 "Warning","Upozornění",lib,web
 "Cancel","Zrušit",lib,web
