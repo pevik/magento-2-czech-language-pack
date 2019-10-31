@@ -5188,13 +5188,13 @@ Je-li zvolena volba ""Výchozí"", e-mailová šablona je postavena na záložn�
 "Number of Lines in a Street Address","Počet řádků ulice",module,Magento_Customer
 "Valid range: 1-4","Valid range: 1-4",module,Magento_Customer
 "Show Prefix","Zobrazit titul před",module,Magento_Customer
-"The title that goes before name (Mr., Mrs., etc.)","Titul před jménem (Ing., MUDr., atp.)",module,Magento_Customer
+"The title that goes before name (Mr., Mrs., etc.)","Oslovení nebo titul před jménem (pan, paní, Ing., MUDr., atp.)",module,Magento_Customer
 "Prefix Dropdown Options","Volby rozbalovacího výběru titulů",module,Magento_Customer
 "Semicolon (;) separated values.<br/>Leave empty for open text field.","Semicolon (;) separated values.<br/>Leave empty for open text field.",module,Magento_Customer
 "Show Middle Name (initial)","Zobrazit prostřední jméno",module,Magento_Customer
 "Always optional.","Vždy volitelné.",module,Magento_Customer
 "Show Suffix","Zobrazit titul za",module,Magento_Customer
-"The suffix that goes after name (Jr., Sr., etc.)","Přípona za jménem (CSc., Ph.D., atp.)",module,Magento_Customer
+"The suffix that goes after name (Jr., Sr., etc.)","Oslovení nebo titul za jménem (jr., sr., CSc., Ph.D., atp.)",module,Magento_Customer
 "Suffix Dropdown Options","Volby rozbalovacího výběru titulů",module,Magento_Customer
 "Show Date of Birth","Zobrazit datum narození",module,Magento_Customer
 "Show Tax/VAT Number","Zobrazit DIČ",module,Magento_Customer
