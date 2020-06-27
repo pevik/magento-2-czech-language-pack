@@ -17,7 +17,7 @@
 "You need more permissions to save this setting.","K uložení nastavení potřebujete vyšší oprávnění.",module,Magento_AdminGws
 "Role Scopes","Rozsahy role",module,Magento_AdminGws
 "Custom","Vlastní",module,Magento_AdminGws
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view",module,Magento_AdminGws
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","K uložení této položky v rozsahu aktuálního zobrazení obchodu nemáte oprávnění. Přepněte prosím do zobrazení povoleného obchodu",module,Magento_AdminGws
 "More permissions are needed to delete the ""%1"" item.","Více oprávnění je potřeba k odstranění ""%1"" položky.",module,Magento_AdminGws
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Tento subjekt musí být přidělen na prodejní pohled.",module,Magento_AdminGws
 "Orders can only be completed in an active store. Verify the store and try again.","Objednávky lze provést pouze v aktivním obchodě. Ověřte obchod a zkuste to znovu.",module,Magento_AdminGws
@@ -268,9 +268,9 @@
 "Error while checking if topic is synchronous","Při kontrole, je-li téma je synchronní, nastala chyba",module,Magento_Amqp
 "Subscription status","Stav předplatného",module,Magento_Analytics
 "Sorry, there has been an error processing your request. Please try again later.","Omlouváme se, došlo k chybě při zpracování vašeho požadavku. Opakujte akci později.",module,Magento_Analytics
-"Time value has an unsupported format","Time value has an unsupported format",module,Magento_Analytics
+"Time value has an unsupported format","Časová hodnota má nepodporovaný formát",module,Magento_Analytics
 "Cron settings can't be saved","Nelze uložit nastavení cron",module,Magento_Analytics
-"There was an error save new configuration value.","There was an error save new configuration value.",module,Magento_Analytics
+"There was an error save new configuration value.","Došlo k chybě zápisu do konfiguračního souboru.",module,Magento_Analytics
 "Please select a vertical.","Please select a vertical.",module,Magento_Analytics
 "--Please Select--","– Vyberte –",module,Magento_Analytics
 "Command was not found.","Příkaz nebyl nalezen.",module,Magento_Analytics
@@ -280,17 +280,17 @@
 "Encryption key can't be empty.","Šifrovací klíč nemůže být prázdný.",module,Magento_Analytics
 "Source ""%1"" is not exist","Zdroj ""%1"" neexistuje",module,Magento_Analytics
 "These arguments can't be empty ""%1""","Tyto argumenty nemohou být prázdné ""%1""",module,Magento_Analytics
-"Cannot find predefined integration user!","Cannot find predefined integration user!",module,Magento_Analytics
+"Cannot find predefined integration user!","Nelze najít předdefinovaného uživatele integrace!",module,Magento_Analytics
 "File is not ready yet.","Soubor zatím není připraven.",module,Magento_Analytics
-"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.",module,Magento_Analytics
-"Failed to synchronize data to the Magento Business Intelligence service. ","Failed to synchronize data to the Magento Business Intelligence service. ",module,Magento_Analytics
+"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Vaše základní adresa URL byla změněna a vaše přehledy se aktualizují. Po zpracování této změny bude k dispozici pokročilý náhled. Prosím zkuste to znovu později.",module,Magento_Analytics
+"Failed to synchronize data to the Magento Business Intelligence service. ","Nelze synchronizovat data se službou Magento Business Intelligence. ",module,Magento_Analytics
 "<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Opakovat Synchronizaci</a>",module,Magento_Analytics
 "TestMessage","TestovacíZpráva",module,Magento_Analytics
 "Apps and Games","Aplikace a Hry",module,Magento_Analytics
-"Athletic/Sporting Goods","Athletic/Sporting Goods",module,Magento_Analytics
+"Athletic/Sporting Goods","Sportovní zboží",module,Magento_Analytics
 "Art and Design","Umění a Design",module,Magento_Analytics
 "Advanced Reporting","Rozšířené přehledy",module,Magento_Analytics
-"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.",module,Magento_Analytics
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Získejte nové informace a získejte přehled o výkonu své firmy pomocí našeho dynamického produktu, objednávky a zákaznických přehledů šitých na míru vašim zákaznickým datům.",module,Magento_Analytics
 "Go to Advanced Reporting","Go to Advanced Reporting",module,Magento_Analytics
 "Analytics","Analytika",module,Magento_Analytics
 "API","API",module,Magento_Analytics
@@ -305,47 +305,47 @@ Přehledy mohou být bezpečně zpřístupněny personalizovaným panelům mimo 
 ""Přejít na Advanced Reporting"". </br> Více informací získáte v našich <a href=""https://magento.com/legal/terms/cloud-terms"">,module,Magento_Analytics
 smluvních podmínkách</a>.",module,Magento_Analytics
 "Advanced Reporting Service","Advanced Reporting Service",module,Magento_Analytics
-"Time of day to send data","Time of day to send data",module,Magento_Analytics
+"Time of day to send data","Čas pro odeslání dat",module,Magento_Analytics
 "Industry","Průmysl",module,Magento_Analytics
-"In order to personalize your Advanced Reporting experience, please select your industry.","In order to personalize your Advanced Reporting experience, please select your industry.",module,Magento_Analytics
-"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Get more insights from Magento Business Intelligence</strong>",module,Magento_Analytics
+"In order to personalize your Advanced Reporting experience, please select your industry.","Chcete-li si přizpůsobit své pokročilé možnosti vytváření přehledů, vyberte své odvětví.",module,Magento_Analytics
+"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Získejte více informací od Magento Business Intelligence</strong>",module,Magento_Analytics
 "Magento Business Intelligence provides you with a simple and clear path to,module,Magento_Analytics
 becoming more data driven.</br> Learn more about <a target=""_blank"",module,Magento_Analytics
 href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence vám umožní a snadným způsobem získat ze svých,module,Magento_Analytics
 dat více informací.</br> Přečtěte si více <a target=""_blank"",module,Magento_Analytics
 href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">o Magento BI Essentials a BI Pro</a>.",module,Magento_Analytics
 "Auto Parts","Auto Parts",module,Magento_Analytics
-"Baby/Children’s Apparel, Gear and Toys","Baby/Children’s Apparel, Gear and Toys",module,Magento_Analytics
-"Beauty and Cosmetics","Beauty and Cosmetics",module,Magento_Analytics
+"Baby/Children’s Apparel, Gear and Toys","Oblečení pro děti, děti, hračky a hračky",module,Magento_Analytics
+"Beauty and Cosmetics","Krása a kosmetika",module,Magento_Analytics
 "Books, Music and Magazines","Knihy, Hudba a Časopisy",module,Magento_Analytics
-"Crafts and Stationery","Crafts and Stationery",module,Magento_Analytics
+"Crafts and Stationery","Řemesla a papírnictví",module,Magento_Analytics
 "Consumer Electronics","Spotřební Elektronika",module,Magento_Analytics
 "Deal Site","Deal Site",module,Magento_Analytics
-"Fashion Apparel and Accessories","Fashion Apparel and Accessories",module,Magento_Analytics
-"Food, Beverage and Grocery","Food, Beverage and Grocery",module,Magento_Analytics
-"Home Goods and Furniture","Home Goods and Furniture",module,Magento_Analytics
-"Home Improvement","Home Improvement",module,Magento_Analytics
-"Jewelry and Watches","Jewelry and Watches",module,Magento_Analytics
+"Fashion Apparel and Accessories","Módní oblečení a doplňky",module,Magento_Analytics
+"Food, Beverage and Grocery","Potraviny a nápoje",module,Magento_Analytics
+"Home Goods and Furniture","Zboží pro domácnost a nábytek",module,Magento_Analytics
+"Home Improvement","Domácí zlepšení",module,Magento_Analytics
+"Jewelry and Watches","Šperky a hodinky",module,Magento_Analytics
 "Mass Merchant","Mass Merchant",module,Magento_Analytics
-"Office Supplies","Office Supplies",module,Magento_Analytics
-"Outdoor and Camping Gear","Outdoor and Camping Gear",module,Magento_Analytics
-"Pet Goods","Pet Goods",module,Magento_Analytics
-"Pharma and Medical Devices","Pharma and Medical Devices",module,Magento_Analytics
+"Office Supplies","Zboží do kanceláře",module,Magento_Analytics
+"Outdoor and Camping Gear","Outdoor a kempování",module,Magento_Analytics
+"Pet Goods","Zboží pro domácí mazlíčky",module,Magento_Analytics
+"Pharma and Medical Devices","Zdravotnické prostředky",module,Magento_Analytics
 "Technology B2B","Technologie B2B",module,Magento_Analytics
 "Other","Ostatní",module,Magento_Analytics
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again.",module,Magento_Analytics
-"Please select an industry.","Please select an industry.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again.",module,Magento_Analytics
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again.",module,Magento_Analytics
-"Enter the encryption key and try again.","Enter the encryption key and try again.",module,Magento_Analytics
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist.",module,Magento_Analytics
-"Retry Synchronization","Retry Synchronization",module,Magento_Analytics
+"The time value is using an unsupported format. Enter a supported format and try again.","Hodnota času používá nepodporovaný formát. Zadejte podporovaný formát a akci opakujte.",module,Magento_Analytics
+"Please select an industry.","Vyberte odvětví.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Data jsou neplatná. Zadejte data, která lze převést na řetězec, a akci opakujte.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string and try again.","Data jsou neplatná. Zadejte data, která lze převést na řetězec, a akci opakujte.",module,Magento_Analytics
+"The data is invalid. Use a valid cipher method and try again.","Data jsou neplatná. Použijte platnou metodu šifrování a akci opakujte.",module,Magento_Analytics
+"Enter the encryption key and try again.","Zadejte šifrovací klíč a akci opakujte.",module,Magento_Analytics
+"The ""%1"" source doesn't exist.","Zdroj „%1“ neexistuje.",module,Magento_Analytics
+"Retry Synchronization","Opakujte synchronizaci",module,Magento_Analytics
 "Back","Zpět",module,Magento_AsynchronousOperations
 "Done","Hotovo",module,Magento_AsynchronousOperations
 "Retry","Opakovat",module,Magento_AsynchronousOperations
 "'Action Details - #' .","'Detaily akce - #' .",module,Magento_AsynchronousOperations
-"%1 item(s) have been scheduled for update.""","%1 item(s) have been scheduled for update.""",module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.""","Aktualizace% 1 položek byla naplánována. “",module,Magento_AsynchronousOperations
 "Bulk Actions Log","Protokol hromadných akcí",module,Magento_AsynchronousOperations
 "Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist",module,Magento_AsynchronousOperations
 "Topic %1","Topic %1",module,Magento_AsynchronousOperations
@@ -825,13 +825,13 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">o Magento BI Essenti
 "Connect Manager","Connect správce",module,Magento_Backend
 "Package Extensions","Balíček rozšíření",module,Magento_Backend
 "Tools","Nástroje",module,Magento_Backend
-"Clean Cache Actions","Clean Cache Actions",module,Magento_Backend
-"Cache Types Management","Cache Types Management",module,Magento_Backend
-"Toggle Cache Type","Toggle Cache Type",module,Magento_Backend
-"Refresh Cache Type","Refresh Cache Type",module,Magento_Backend
-"Catalog Images Cache","Catalog Images Cache",module,Magento_Backend
+"Clean Cache Actions","Vymazat akce mezipaměti",module,Magento_Backend
+"Cache Types Management","Správa typů mezipaměti",module,Magento_Backend
+"Toggle Cache Type","Přepnout typ mezipaměti",module,Magento_Backend
+"Refresh Cache Type","Aktualizovat mezipaměť",module,Magento_Backend
+"Catalog Images Cache","Katalogové obrázky Cache",module,Magento_Backend
 "Flush Js/Css","Flush Js/Css",module,Magento_Backend
-"Flush Static Files","Flush Static Files",module,Magento_Backend
+"Flush Static Files","Vyprázdnit mezipaměť statických souborů",module,Magento_Backend
 "Web Setup Wizard","Průvodce nastavením",module,Magento_Backend
 "Currency","Měna",module,Magento_Backend
 "Communications","Komunikace",module,Magento_Backend
@@ -1239,26 +1239,26 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">o Magento BI Essenti
 "Back","Zpět",module,Magento_Banner
 "Enable Dynamic Block","Enable Dynamic Block",module,Magento_Banner
 "Use Default Value","Použít výchozí hodnotu",module,Magento_Banner
-"Cart price rules allows you to setup promotions for items that are in the shopping cart.","Cart price rules allows you to setup promotions for items that are in the shopping cart.",module,Magento_Banner
+"Cart price rules allows you to setup promotions for items that are in the shopping cart.","Pravidla ceny vozíku vám umožňují nastavit propagační akce pro položky, které jsou v nákupním košíku.",module,Magento_Banner
 "Add Cart Price Rules","Add Cart Price Rules",module,Magento_Banner
 "Related Catalog Price Rule","Related Catalog Price Rule",module,Magento_Banner
-"Catalog price rules allows you to setup promotions for an items in catalog.","Catalog price rules allows you to setup promotions for an items in catalog.",module,Magento_Banner
+"Catalog price rules allows you to setup promotions for an items in catalog.","Pravidla katalogové ceny umožňují nastavit propagační akce pro položky v katalogu.",module,Magento_Banner
 "Cancel","Zrušit",module,Magento_Banner
 "Add Selected","Přidat zvolené",module,Magento_Banner
 "Remove","Odstranit",module,Magento_Banner
 "Make sure that dynamic blocks rotator does not reference the dynamic block itself.","Ujistěte se, že statický blok nedokazuje sám na sebe.",module,Magento_Banner
 "Cart Price Rule Related","Cenová pravidla košíku",module,Magento_Banner
 "Catalog Price Rule Related","Katalog cenových pravidel",module,Magento_Banner
-"All Segments","All Segments",module,Magento_BannerCustomerSegment
+"All Segments","Všechny segmenty",module,Magento_BannerCustomerSegment
 "Customer Segment","Segment zákazníků",module,Magento_BannerCustomerSegment
 "Country","Země",module,Magento_Braintree
 "Allowed Credit Card Types","Povolené typy platebních karet",module,Magento_Braintree
 "Add Rule","Přidat pravidlo",module,Magento_Braintree
-"Braintree Settlement Report","Braintree Settlement Report",module,Magento_Braintree
+"Braintree Settlement Report","Zpráva o vyrovnávání mozků",module,Magento_Braintree
 "Sorry, but something went wrong","Omlouváme se, ale něco se pokazilo",module,Magento_Braintree
 "We can't initialize checkout.","Pokladnu nelze inicializovat.",module,Magento_Braintree
-"No authorization transaction to proceed capture.","No authorization transaction to proceed capture.",module,Magento_Braintree
-"Transaction is successful.","Transaction is successful.",module,Magento_Braintree
+"No authorization transaction to proceed capture.","Žádná transakce autorizace pro pokračování.",module,Magento_Braintree
+"Transaction is successful.","Transakce je úspěšná.",module,Magento_Braintree
 "Braintree error response.","Braintree error response.",module,Magento_Braintree
 "Payment method nonce can't be retrieved.","Způsob platby nelze provést.",module,Magento_Braintree
 "Wrong transaction status","Neplatný stav transakce",module,Magento_Braintree
@@ -1270,7 +1270,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">o Magento BI Essenti
 "expires","platnost do",module,Magento_Braintree
 "PayPal","PayPal",module,Magento_Braintree
 "Please agree to all the terms and conditions before placing the order.","Před objednáním musíte souhlasit s obchodními podmínkami.",module,Magento_Braintree
-"Transaction was failed.","Transaction was failed.",module,Magento_Braintree
+"Transaction was failed.","Transakce se nezdařila.",module,Magento_Braintree
 "Credit Card Type","Typ platební karty",module,Magento_Braintree
 "Credit Card Number","Číslo platební karty",module,Magento_Braintree
 "Please, enter valid Credit Card Number","Zadejte platné číslo platební karty",module,Magento_Braintree
@@ -1293,23 +1293,23 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">o Magento BI Essenti
 "Please try again with another form of payment.","Zopakujte znovu prosím s jinou formou platby.",module,Magento_Braintree
 "Sorry, but something went wrong.","Omlouváme se, ale něco se pokazilo.",module,Magento_Braintree
 "Payment ","Platba",module,Magento_Braintree
-"Credit card type is not accepted by this merchant account.","Credit card type is not accepted by this merchant account.",module,Magento_Braintree
-"Transaction can only be voided if status is authorized, submitted_for_settlement, or - for PayPal - settlement_pending.","Transaction can only be voided if status is authorized, submitted_for_settlement, or - for PayPal - settlement_pending.",module,Magento_Braintree
-"Credit transactions cannot be refunded.","Credit transactions cannot be refunded.",module,Magento_Braintree
-"Cannot refund a transaction unless it is settled.","Cannot refund a transaction unless it is settled.",module,Magento_Braintree
-"Cannot submit for settlement unless status is authorized.","Cannot submit for settlement unless status is authorized.",module,Magento_Braintree
-"Customer does not have any credit cards.","Customer does not have any credit cards.",module,Magento_Braintree
-"Transaction has already been completely refunded.","Transaction has already been completely refunded.",module,Magento_Braintree
-"Payment instrument type is not accepted by this merchant account.","Payment instrument type is not accepted by this merchant account.",module,Magento_Braintree
-"Processor authorization code cannot be set unless for a voice authorization.","Processor authorization code cannot be set unless for a voice authorization.",module,Magento_Braintree
-"Refund amount is too large.","Refund amount is too large.",module,Magento_Braintree
-"Settlement amount is too large.","Settlement amount is too large.",module,Magento_Braintree
-"Cannot provide a billing address unless also providing a credit card.","Cannot provide a billing address unless also providing a credit card.",module,Magento_Braintree
-"Cannot refund a transaction with a suspended merchant account.","Cannot refund a transaction with a suspended merchant account.",module,Magento_Braintree
-"Merchant account does not support refunds.","Merchant account does not support refunds.",module,Magento_Braintree
-"Cannot refund a transaction transaction in settling status on this merchant account. Try again after the transaction has settled.","Cannot refund a transaction transaction in settling status on this merchant account. Try again after the transaction has settled.",module,Magento_Braintree
-"PayPal is not enabled for your merchant account.","PayPal is not enabled for your merchant account.",module,Magento_Braintree
-"Partial settlements are not supported by this processor.","Partial settlements are not supported by this processor.",module,Magento_Braintree
+"Credit card type is not accepted by this merchant account.","Karta není akceptována.",module,Magento_Braintree
+"Transaction can only be voided if status is authorized, submitted_for_settlement, or - for PayPal - settlement_pending.","Platba může být zrušena pouze tehdy, je-li udělen status, submitted_for_settlement, nebo - pro PayPal - settlement_pending.",module,Magento_Braintree
+"Credit transactions cannot be refunded.","Transakce jsou nevratné.",module,Magento_Braintree
+"Cannot refund a transaction unless it is settled.","Transakci nelze vrátit, pokud nebude vypořádána.",module,Magento_Braintree
+"Cannot submit for settlement unless status is authorized.","Nelze odeslat k vypořádání, pokud není status schválen.",module,Magento_Braintree
+"Customer does not have any credit cards.","Zákazník nemá žádné kreditní karty.",module,Magento_Braintree
+"Transaction has already been completely refunded.","Transakce již byla vrácena.",module,Magento_Braintree
+"Payment instrument type is not accepted by this merchant account.","Obchodní účet nepřijímá tento typ platebního nástroje.",module,Magento_Braintree
+"Processor authorization code cannot be set unless for a voice authorization.","Autorizační kód procesoru nelze nastavit, pouze pro hlasovou autorizaci.",module,Magento_Braintree
+"Refund amount is too large.","Částka vrácení peněz je příliš vysoká.",module,Magento_Braintree
+"Settlement amount is too large.","Částka vrácení peněz je příliš vysoká.",module,Magento_Braintree
+"Cannot provide a billing address unless also providing a credit card.","Fakturační adresu nelze poskytnout, pokud neposkytnete také kreditní kartu.",module,Magento_Braintree
+"Cannot refund a transaction with a suspended merchant account.","Nelze vrátit transakci s pozastaveným obchodním účtem.",module,Magento_Braintree
+"Merchant account does not support refunds.","Obchodní účet nepodporuje vrácení peněz.",module,Magento_Braintree
+"Cannot refund a transaction transaction in settling status on this merchant account. Try again after the transaction has settled.","Nelze vrátit transakci ve stavu vypořádání na tomto obchodním účtu. Zkuste to znovu po vyřízení transakce.",module,Magento_Braintree
+"PayPal is not enabled for your merchant account.","PayPal není povolen pro váš obchodní účet.",module,Magento_Braintree
+"Partial settlements are not supported by this processor.","Částečná úhrada není podporována.",module,Magento_Braintree
 "Cannot submit for partial settlement.","Cannot submit for partial settlement.",module,Magento_Braintree
 "Transaction can not be voided if status of a PayPal partial settlement child transaction is settlement_pending.","Transaction can not be voided if status of a PayPal partial settlement child transaction is settlement_pending.",module,Magento_Braintree
 "Too many concurrent attempts to refund this transaction. Try again later.","Too many concurrent attempts to refund this transaction. Try again later.",module,Magento_Braintree
@@ -1481,8 +1481,8 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">o Magento BI Essenti
 "Yes","Ano",module,Magento_Braintree
 "No","Ne",module,Magento_Braintree
 "Edit","Upravit",module,Magento_Braintree
-"An error occured with payment processing.","An error occured with payment processing.",module,Magento_Braintree
-"Can not initialize PayPal (Braintree)","Can not initialize PayPal (Braintree)",module,Magento_Braintree
+"An error occured with payment processing.","Při zpracování platby nastala chyba.",module,Magento_Braintree
+"Can not initialize PayPal (Braintree)","PayPal (Braintree) nelze inicializovat",module,Magento_Braintree
 "&nbsp;","&nbsp;",module,Magento_Braintree
 "Capture action","Zachycení",module,Magento_Braintree
 "New Order Status","Stav nové objednávky",module,Magento_Braintree
@@ -1492,15 +1492,15 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">o Magento BI Essenti
 "Your Kount ID","Vaše Kount ID",module,Magento_Braintree
 "Use Cache","Použít mezipaměť",module,Magento_Braintree
 "Edit My Credit Cards","Upravit mé platební karty",module,Magento_Braintree
-"Pay with PayPal","Pay with PayPal",module,Magento_Braintree
+"Pay with PayPal","Platit přes PayPal",module,Magento_Braintree
 "Transaction is cancelled offline.","Transakce je zrušena offline.",module,Magento_Braintree
-"Braintree Settlement","Braintree Settlement",module,Magento_Braintree
-"If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.",module,Magento_Braintree
-"Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section",module,Magento_Braintree
-"Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.",module,Magento_Braintree
-"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.",module,Magento_Braintree
+"Braintree Settlement","Braintree přehled o vypořádání",module,Magento_Braintree
+"If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","Pokud nevyberete konkrétní účet pro zpracování transakcí, Braintree provede objednávku pomocí výchozího účtu.",module,Magento_Braintree
+"Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Nezapomeňte povolit Avs a / nebo Cvv ve svém účtu Braintree v části Nastavení / zpracování",module,Magento_Braintree
+"Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Používá se pro integraci nástroje pro přímé podvody. Nezapomeňte také kontaktovat <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> pro nastavení účtu Kount.",module,Magento_Braintree
+"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Nezapomeňte povolit AVS a / nebo CVV ve svém účtu Braintree v části Nastavení / zpracování.",module,Magento_Braintree
 "It is recommended to set this value to ""PayPal"" per store views.","Je doporučeno nastavit na ""PayPal"" v každém zobrazení obchodu.",module,Magento_Braintree
-"This feature needs be enabled first for the merchant account through PayPal technical support.","This feature needs be enabled first for the merchant account through PayPal technical support.",module,Magento_Braintree
+"This feature needs be enabled first for the merchant account through PayPal technical support.","Tato funkce musí být povolena nejprve pro obchodní účet prostřednictvím technické podpory PayPal.",module,Magento_Braintree
 "Also affects mini-shopping cart.","Ovlivňuje také blok mini košíku.",module,Magento_Braintree
 "Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.,module,Magento_Braintree
 The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.,module,Magento_Braintree
@@ -1512,11 +1512,11 @@ please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.",modul
 "The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters,module,Magento_Braintree
 and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters,module,Magento_Braintree
 and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).",module,Magento_Braintree
-"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.",module,Magento_Braintree
-"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.",module,Magento_Braintree
-"The Payment Token is not available to perform the request.","The Payment Token is not available to perform the request.",module,Magento_Braintree
-"Checkout failed to initialize. Verify and try again.","Checkout failed to initialize. Verify and try again.",module,Magento_Braintree
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Braintree
+"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","Hodnota v telefonním čísle prohlášení zákazníka. Telefon musí obsahovat 10–14 znaků a obsahovat pouze čísla, pomlčky, závorky a tečky.",module,Magento_Braintree
+"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","Hodnota v oblasti URL/webové adresy zákazníka, URL musí být 13 znaků nebo kratší.",module,Magento_Braintree
+"The Payment Token is not available to perform the request.","Platební Token není k dispozici pro provedení žádosti.",module,Magento_Braintree
+"Checkout failed to initialize. Verify and try again.","Zaplacení se nezdařilo. Ověřte a zkuste to znovu.",module,Magento_Braintree
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","Objednávka nebyla zadána. Nejprve musíte souhlasit s podmínkami a pak můžete zkusit objednat znovu.",module,Magento_Braintree
 "Paypal account","PayPal účet",module,Magento_Braintree
 "Coinbase account","Coinbase účet",module,Magento_Braintree
 "Europe bank account","Evropské bankovní účet",module,Magento_Braintree
@@ -1648,16 +1648,16 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Thumbnail","Náhled",module,Magento_Bundle
 "Type","Typ",module,Magento_Bundle
 "Special Price","Akční cena",module,Magento_Bundle
-"This is implemented for bundle products only.","This is implemented for bundle products only.",module,Magento_Bundle
-"The product with the ""%1"" SKU isn't a bundle product.","The product with the ""%1"" SKU isn't a bundle product.",module,Magento_Bundle
-"The bundle product can't contain another composite product.","The bundle product can't contain another composite product.",module,Magento_Bundle
-"The product link needs an ID field entered. Enter and try again.","The product link needs an ID field entered. Enter and try again.",module,Magento_Bundle
-"The product link with the ""%1"" ID field wasn't found. Verify the ID and try again.","The product link with the ""%1"" ID field wasn't found. Verify the ID and try again.",module,Magento_Bundle
-"The bundle product doesn't exist. Review your request and try again.","The bundle product doesn't exist. Review your request and try again.",module,Magento_Bundle
-"The option that was requested doesn't exist. Verify the entity and try again.","The option that was requested doesn't exist. Verify the entity and try again.",module,Magento_Bundle
-"The option couldn't be saved.","The option couldn't be saved.",module,Magento_Bundle
-"""%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Bundle
-"The option with ""%1"" ID can't be deleted.","The option with ""%1"" ID can't be deleted.",module,Magento_Bundle
+"This is implemented for bundle products only.","Implementováno pouze pro sestavu produktů.",module,Magento_Bundle
+"The product with the ""%1"" SKU isn't a bundle product.","Produkt s „%1“ SKU není produkt s balíčkem.",module,Magento_Bundle
+"The bundle product can't contain another composite product.","Sestava produktů nemůže obsahovat jiné složené produkty.",module,Magento_Bundle
+"The product link needs an ID field entered. Enter and try again.","Odkaz na produkt vyžaduje vložené pole ID. Zadejte a zkuste to znovu.",module,Magento_Bundle
+"The product link with the ""%1"" ID field wasn't found. Verify the ID and try again.","Odkaz na produkt s polem ID „% 1“ nebyl nalezen. Ověřte ID a akci opakujte.",module,Magento_Bundle
+"The bundle product doesn't exist. Review your request and try again.","Tento balíček neexistuje, přečtěte si žádost a zkuste znovu vyzkoušet.",module,Magento_Bundle
+"The option that was requested doesn't exist. Verify the entity and try again.","Možnost, která byla požádána, neexistuje, ověřte entitu a zkuste znovu.",module,Magento_Bundle
+"The option couldn't be saved.","Tuto možnost nelze uložit.",module,Magento_Bundle
+"""%fieldName"" is required. Enter and try again.","Atribut ""%f"" je povinný. Zadejte jej a zkuste znovu.",module,Magento_Bundle
+"The option with ""%1"" ID can't be deleted.","Možnost s ID „% 1“ nelze odstranit.",module,Magento_Bundle
 """option_id"" and ""parent_id"" values should be specified","""option_id"" and ""parent_id"" values should be specified",module,Magento_BundleGraphQl
 """sku"" value should be specified","""sku"" value should be specified",module,Magento_BundleGraphQl
 "Unique constraint violation found","Nalezeno porušení unikátního údaje",module,Magento_BundleStaging
@@ -2005,7 +2005,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Must be category model instance or its id.","Musí být instancí modelu kategorie nebo její ID.",module,Magento_Catalog
 "The attribute model is not defined.","Model atributu není definován.",module,Magento_Catalog
 "Category","Kategorie",module,Magento_Catalog
-"%1 - %2","%1 - %2",module,Magento_Catalog
+"%1 - %2","%1 x %2",module,Magento_Catalog
 "%1 was not found in algorithms","%1 nebyl v algoritmech nalezen",module,Magento_Catalog
 "%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 nerozšiřuje \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 nerozšiřuje \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
@@ -2043,8 +2043,8 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Please correct the image file type.","Opravte formát souboru obrázku.",module,Magento_Catalog
 "We couldn't move this file: %1.","Tento soubor nelze přesunout: %1.",module,Magento_Catalog
 "Can't get information about the picture: %1","Nelze získat informace o obrázku: %1",module,Magento_Catalog
-"The image could not be resized: ","The image could not be resized: ",module,Magento_Catalog
-"Some images could not be resized. See log file for details.","Some images could not be resized. See log file for details.",module,Magento_Catalog
+"The image could not be resized: ","Velikost obrázku nelze změnit: ",module,Magento_Catalog
+"Some images could not be resized. See log file for details.","U některých obrázků nebylo možné změnit velikost. Podrobnosti viz soubor protokolu.",module,Magento_Catalog
 "The option type to get group instance is incorrect.","Neplatný typ volby k získání instance skupiny.",module,Magento_Catalog
 "Select type options required values rows.","Zvolte typy voleb požadovaných hodnot řádků.",module,Magento_Catalog
 "ProductSku should be specified","Je nutné zadat kód SKU produktu.",module,Magento_Catalog
@@ -2098,7 +2098,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Could not save group price","Cenu skupiny zákazníků nelze uložit",module,Magento_Catalog
 "Please provide valid data","Zadejte platné údaje prosím",module,Magento_Catalog
 "Values of following attributes are invalid: %1","Hodnoty následujících atributů jsou neplatné: %1",module,Magento_Catalog
-"We can't create writeable directory ""%1"".","We can't create writeable directory ""%1"".",module,Magento_Catalog
+"We can't create writeable directory ""%1"".","Zapisovatelný adresář \"%1\" nelze vytvořit.",module,Magento_Catalog
 "The file upload failed.","Soubor nelze nahrát.",module,Magento_Catalog
 "The product has required options.","Produkt má požadované volby.",module,Magento_Catalog
 "Something went wrong while processing the request.","Při zpracování požadavku nastala chyba.",module,Magento_Catalog
@@ -2121,8 +2121,8 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Product with SKU ""%1"" does not exist","Produkt s SKU ""%1"" neexistuje.",module,Magento_Catalog
 "Invalid product data: %1","Neplatné údaje produktu: %1",module,Magento_Catalog
 "Database connection error","Chyba v připojení k databázi",module,Magento_Catalog
-"Database deadlock found when trying to get lock","Database deadlock found when trying to get lock",module,Magento_Catalog
-"Database lock wait timeout exceeded","Database lock wait timeout exceeded",module,Magento_Catalog
+"Database deadlock found when trying to get lock","Při pokusu o uzamčení došlo k zablokování databáze",module,Magento_Catalog
+"Database lock wait timeout exceeded","Byl překročen časový limit čekání na zámek databáze",module,Magento_Catalog
 "Unable to remove product %1","Produkt %1 nelze odstranit",module,Magento_Catalog
 "Requested product does not support images.","Požadovaný produkt nepodporuje obrázky.",module,Magento_Catalog
 "There are not websites for assign to product","K přiřazení k produktu neexistuje žádný web",module,Magento_Catalog
@@ -4385,7 +4385,7 @@ Maximum 255 characters are allowed.,module,Magento_CompanyCredit
 "The ""%1"" file doesn't exist.","The ""%1"" file doesn't exist.",module,Magento_Config
 "The ""%1"" path doesn't exist. Verify and try again.","The ""%1"" path doesn't exist. Verify and try again.",module,Magento_Config
 "'The XML in file ""%1"" is invalid:' . ""\n%2\nVerify the XML and try again.""","'The XML in file ""%1"" is invalid:' . ""\n%2\nVerify the XML and try again.""",module,Magento_Config
-"Product with assigned super attributes should not have specified ""%1"" value","Product with assigned super attributes should not have specified ""%1"" value",module,Magento_ConfigurableImportExport
+"Product with assigned super attributes should not have specified ""%1"" value","Produkt s přiřazenými super atributy by neměl mít zadanou hodnotu ""%1""",module,Magento_ConfigurableImportExport
 "Add configurable attributes to the current Attribute Set (""%1"")","Přidat konfigurovatelné atributy k aktuální sadě atributů (""%1"")",module,Magento_ConfigurableProduct
 "Add configurable attributes to the new Attribute Set based on current","Přidat konfigurovatelné atributy do nové sady atributů odvozené od aktuální",module,Magento_ConfigurableProduct
 "New attribute set name","Název nové sady atributů",module,Magento_ConfigurableProduct
@@ -15379,7 +15379,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "More permissions are needed to access this.","More permissions are needed to access this.",module,Magento_User
 "The password reset token is incorrect. Verify the token and try again.","The password reset token is incorrect. Verify the token and try again.",module,Magento_User
 "Your account is temporarily disabled. Please try again later.","Your account is temporarily disabled. Please try again later.",module,Magento_User
-"""User Name"" is required. Enter and try again.","""User Name"" is required. Enter and try again.",module,Magento_User
+"""User Name"" is required. Enter and try again.","""Uživatelské jméno"" je povinné. Zadejte a zkuste to znovu.",module,Magento_User
 """First Name"" is required. Enter and try again.","""First Name"" is required. Enter and try again.",module,Magento_User
 """Last Name"" is required. Enter and try again.","""Last Name"" is required. Enter and try again.",module,Magento_User
 "First-Class Mail Large Envelope","First-Class Mail Large Envelope",module,Magento_Usps
@@ -16223,73 +16223,73 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transakce byla zamítnuta",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","Souhrn",theme,frontend\Magento\blank
-"Account Dashboard","Přehled",theme,frontend\Magento\blank
-"Account Information","Údaje účtu",theme,frontend\Magento\blank
-"Address Book","Adresář",theme,frontend\Magento\blank
-"Menu","Menu",theme,frontend\Magento\blank
-"Account","Účet",theme,frontend\Magento\blank
-"Settings","Nastavení",theme,frontend\Magento\blank
-"Now Shopping by","Aktivní filtr pro",theme,frontend\Magento\luma
-"Previous","Předchozí",theme,frontend\Magento\luma
-"Remove","Odstranit",theme,frontend\Magento\luma
-"Remove This Item","Odstranit tuto položku",theme,frontend\Magento\luma
-"Shop By","Navigace",theme,frontend\Magento\luma
-"Clear All","Odebrat vše",theme,frontend\Magento\luma
-"Shopping Options","Filtr parametrů",theme,frontend\Magento\luma
-"Welcome to %store_name","Vítejte v %store_name",theme,frontend\Magento\luma
-"%name,","%name,",theme,frontend\Magento\luma
-"Welcome to %store_name.","Vítejte v %store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Tyto přihlašovací údaje použijte k přihlášení na naše stránky v průběhu dokončení objednávky nebo na <a href=""%customer_url"">Můj účet</a> stránce:",theme,frontend\Magento\luma
-"Email:","E-mail:",theme,frontend\Magento\luma
-"Password:","Heslo:",theme,frontend\Magento\luma
-"Password you set when creating account","Heslo, které jste zadali při registraci",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zapoměli jste své heslo? Kliknutím <a href=""%reset_url"">zde</a> jej obnovíte.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","Po přihlášení k vašemu účtu můžete provádět následující:",theme,frontend\Magento\luma
-"Quick Checkout","Rychlá pokladna",theme,frontend\Magento\luma
-"Proceed through checkout faster","Rychlejší proces dokončení objednávky",theme,frontend\Magento\luma
-"Order Status","Stav objednávky",theme,frontend\Magento\luma
-"Check the status of orders","Zkontrolovat stav objednávek",theme,frontend\Magento\luma
-"Manage Addresses","Správa adres",theme,frontend\Magento\luma
-"Store alternative addresses","Můžete si uložit více adres",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","Pro zasílání členům rodiny či přátelům",theme,frontend\Magento\luma
-"Order History","Historie objednávky",theme,frontend\Magento\luma
-"View past orders","Zobrazit předchozí objednávky",theme,frontend\Magento\luma
-"Footer","Zápatí",theme,frontend\Magento\luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend\Magento\luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend\Magento\luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend\Magento\luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Provozní doba:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","Děkujeme Vám za objednávku z %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Stav objednávky můžete zkontrolovat <a href=""%account_url"">po přihlášení do svého účtu</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Pokud máte k vaší objednávce jakýkoli dotaz, můžete nám napsat na <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Dobropis č. %creditmemo_id k objednávce č. %order_id",theme,frontend\Magento\luma
-"Billing Info","Fakturační údaje",theme,frontend\Magento\luma
-"Shipping Info","Doručovací údaje",theme,frontend\Magento\luma
-"Payment Method","Způsob platby",theme,frontend\Magento\luma
-"Shipping Method","Způsob dopravy",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Stav vaší objednávky č. %increment_id byl změněn na <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","Faktura č. %invoice_id k objednávce č. %order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend\Magento\luma
-"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend\Magento\luma
-"%customer_name,","%customer_name,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","Jakmile bude vaše zásilka odeslána, zašleme Vám sledovací číslo balíku.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Vaše objednávka <span class=""no-link"">č. %increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","Pořízená v <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","Update to your %store_name order",theme,frontend\Magento\luma
-"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","Potvrzení odeslání zásilky je níže. Ještě jednou vám za nákup děkujeme.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","Zásilka č. #%shipment_id k objednávce č. %order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend\Magento\luma
-"Account Dashboard","Přehled",theme,frontend\Magento\luma
-"Address Book","Adresář",theme,frontend\Magento\luma
-"Account Information","Údaje účtu",theme,frontend\Magento\luma
-"About Us","O nás",theme,frontend\Magento\luma
-"Customer Service","Zákaznická podpora",theme,frontend\Magento\luma
-"My Account","Můj účet",theme,frontend\Magento\luma
+"Summary","Souhrn",theme,frontend/Magento/blank
+"Account Dashboard","Přehled",theme,frontend/Magento/blank
+"Account Information","Údaje účtu",theme,frontend/Magento/blank
+"Address Book","Adresář",theme,frontend/Magento/blank
+"Menu","Menu",theme,frontend/Magento/blank
+"Account","Účet",theme,frontend/Magento/blank
+"Settings","Nastavení",theme,frontend/Magento/blank
+"Now Shopping by","Aktivní filtr pro",theme,frontend/Magento/luma
+"Previous","Předchozí",theme,frontend/Magento/luma
+"Remove","Odstranit",theme,frontend/Magento/luma
+"Remove This Item","Odstranit tuto položku",theme,frontend/Magento/luma
+"Shop By","Navigace",theme,frontend/Magento/luma
+"Clear All","Odebrat vše",theme,frontend/Magento/luma
+"Shopping Options","Filtr parametrů",theme,frontend/Magento/luma
+"Welcome to %store_name","Vítejte v %store_name",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Vítejte v %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Tyto přihlašovací údaje použijte k přihlášení na naše stránky v průběhu dokončení objednávky nebo na <a href=""%customer_url"">Můj účet</a> stránce:",theme,frontend/Magento/luma
+"Email:","E-mail:",theme,frontend/Magento/luma
+"Password:","Heslo:",theme,frontend/Magento/luma
+"Password you set when creating account","Heslo, které jste zadali při registraci",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zapoměli jste své heslo? Kliknutím <a href=""%reset_url"">zde</a> jej obnovíte.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","Po přihlášení k vašemu účtu můžete provádět následující:",theme,frontend/Magento/luma
+"Quick Checkout","Rychlá pokladna",theme,frontend/Magento/luma
+"Proceed through checkout faster","Rychlejší proces dokončení objednávky",theme,frontend/Magento/luma
+"Order Status","Stav objednávky",theme,frontend/Magento/luma
+"Check the status of orders","Zkontrolovat stav objednávek",theme,frontend/Magento/luma
+"Manage Addresses","Správa adres",theme,frontend/Magento/luma
+"Store alternative addresses","Můžete si uložit více adres",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","Pro zasílání členům rodiny či přátelům",theme,frontend/Magento/luma
+"Order History","Historie objednávky",theme,frontend/Magento/luma
+"View past orders","Zobrazit předchozí objednávky",theme,frontend/Magento/luma
+"Footer","Zápatí",theme,frontend/Magento/luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend/Magento/luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend/Magento/luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Provozní doba:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Děkujeme Vám za objednávku z %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Stav objednávky můžete zkontrolovat <a href=""%account_url"">po přihlášení do svého účtu</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Pokud máte k vaší objednávce jakýkoli dotaz, můžete nám napsat na <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Dobropis č. %creditmemo_id k objednávce č. %order_id",theme,frontend/Magento/luma
+"Billing Info","Fakturační údaje",theme,frontend/Magento/luma
+"Shipping Info","Doručovací údaje",theme,frontend/Magento/luma
+"Payment Method","Způsob platby",theme,frontend/Magento/luma
+"Shipping Method","Způsob dopravy",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Stav vaší objednávky č. %increment_id byl změněn na <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Faktura č. %invoice_id k objednávce č. %order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Jakmile bude vaše zásilka odeslána, zašleme Vám sledovací číslo balíku.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Vaše objednávka <span class=""no-link"">č. %increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Pořízená v <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Update to your %store_name order",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Potvrzení odeslání zásilky je níže. Ještě jednou vám za nákup děkujeme.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Zásilka č. #%shipment_id k objednávce č. %order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
+"Account Dashboard","Přehled",theme,frontend/Magento/luma
+"Address Book","Adresář",theme,frontend/Magento/luma
+"Account Information","Údaje účtu",theme,frontend/Magento/luma
+"About Us","O nás",theme,frontend/Magento/luma
+"Customer Service","Zákaznická podpora",theme,frontend/Magento/luma
+"My Account","Můj účet",theme,frontend/Magento/luma
 "Backup options","Možnosti zálohování",lib,web
 "Warning","Upozornění",lib,web
 "Cancel","Zrušit",lib,web
