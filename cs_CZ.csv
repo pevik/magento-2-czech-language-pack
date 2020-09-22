@@ -3326,7 +3326,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Remove","Odstranit",module,Magento_Checkout
 "Cart Subtotal","Mezisoučet",module,Magento_Checkout
 "Payment Information","Platební údaje",module,Magento_Checkout
-"No Payment method available.","Způsob platby není k dostupný.",module,Magento_Checkout
+"No Payment method available.","Žádný dostupný způsob platby.",module,Magento_Checkout
 "You can track your order status by creating an account.","Vytvořením účtu můžete sledovat stav své objednávky.",module,Magento_Checkout
 "Place Order","Objednat",module,Magento_Checkout
 "Forgot an Item?","Zapoměl(a) jste na nějaký produkt?",module,Magento_Checkout
@@ -3348,7 +3348,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Select a new payment method","Vyberte nový způsob platby",module,Magento_Checkout
 "Shipping","Přepravné",module,Magento_Checkout
 "Save Address","Uložit adresu",module,Magento_Checkout
-"Please specify a shipping method.","Zvolte způsob přepravy prosím.",module,Magento_Checkout
+"Please specify a shipping method.","Zvolte, prosím, způsob přepravy.",module,Magento_Checkout
 "Checkout Options","Možnosti pokladny",module,Magento_Checkout
 "Enable Onepage Checkout","Zapnout jednostránkovou pokladnu",module,Magento_Checkout
 "Allow Guest Checkout","Povolit nákup návštěvníkům",module,Magento_Checkout
