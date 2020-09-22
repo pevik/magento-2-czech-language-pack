@@ -5107,7 +5107,7 @@ budou vytvořeny nové produkty. Tento krok slouží k úpravě jejich obrázků
 "Thank you for confirming your %store_name account.","Děkujeme za potvrzení vašeho účtu %store_name.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","K přihlášení na náš web a nastavení hesla klikněte na tento <a href=""%create_password_url"">odkaz</a>:",module,Magento_Customer
 "Your %store_name email has been changed","Vaše emailová adresa v obchodu %store_name byla změněna",module,Magento_Customer
-"Hello,","Ahoj,",module,Magento_Customer
+"Hello,","Dobrý den,",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email.","Obdrželi jsme požadavek na změnu následujících údajů spojené s vaším účtem v %store_name: email.",module,Magento_Customer
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Pokud k této činnosti nemáte oprávnění, kontaktujte nás ihned prosím na <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","nebo volejte na <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
@@ -6315,7 +6315,7 @@ Je-li zvolena volba ""Výchozí"", e-mailová šablona je postavena na záložn�
 "An attribute code must not be less than %1 and more than %2 characters.","Kód atributu nesmí být kratší než %1 a delší než %2 znaků.",module,Magento_Eav
 "Attribute with ID: ""%1"" does not exist","Attribute with ID: ""%1"" does not exist",module,Magento_Eav
 "AttributeSet does not exist.","Sada atributů neexistuje.",module,Magento_Eav
-"hello","ahoj",module,Magento_Eav
+"hello","dobrý den",module,Magento_Eav
 "Some internal exception message.","Nějaká zpráva interní výjimky.",module,Magento_Eav
 "The value of attribute not valid","Hodnota atributu je neplatná",module,Magento_Eav
 "EAV types and attributes","EAV typy a atributy",module,Magento_Eav
@@ -15348,7 +15348,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "If you did not make this request, you can ignore this email and your password will remain the same.","Pokud jste o změnu nežádali, tuto zprávu můžete ignorovat a vaše heslo zůstane stejné.",module,Magento_User
 "Thank you,","Děkujeme,",module,Magento_User
 "New %changes for %user_name","New %changes for %user_name",module,Magento_User
-"Hello,","Ahoj,",module,Magento_User
+"Hello,","Dobrý den,",module,Magento_User
 "We have received a request to change the following information associated with your account at %store_name: %changes.","Obdrželi jsme požadavek na změnu následujících údajů spojené s vaším účtem v %store_name: %changes.",module,Magento_User
 "If you have not authorized this action, please contact us immediately at %store_email","Pokud k této činnosti nemáte oprávnění, kontaktujte nás ihned prosím na %store_email",module,Magento_User
 "or call us at %store_phone","nebo nám zavolejte na %store_phone",module,Magento_User
